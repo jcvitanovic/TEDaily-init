@@ -1666,3 +1666,248 @@ ID: 1909 NAME: Shereen El Feki: A little-told tale of sex and sensuality TAGS Eg
 ID: 1910 NAME: Paula Johnson: His and hers … healthcare TAGS depression, health, heart health, women
 ID: 1911 NAME: Yves Morieux: As work gets more complex, 6 rules to simplify TAGS business, leadership, productivity, work
 ID: 1912 NAME: Joe Kowan: How I beat stage fright TAGS communication, entertainment, fear
+ID: 1913 NAME: Anant Agarwal: Why massive open online courses (still) matter TAGS Internet, TED Conference, education, technology
+ID: 1914 NAME: Anne Milgram: Why smart statistics are the key to fighting crime TAGS crime, data
+ID: 1915 NAME: McKenna Pope: Want to be an activist? Start with your toys TAGS activism, toy, youth
+ID: 1916 NAME: Nicolas Perony: Puppies! Now that I’ve got your attention, complexity theory TAGS TEDx, animals, complexity
+ID: 1917 NAME: Maya Penn: Meet a young entrepreneur, cartoonist, designer, activist … TAGS creativity, entrepreneur
+ID: 1918 NAME: Esta Soler: How we turned the tide on domestic violence (Hint: the Polaroid helped) TAGS gender, violence, women, yesallwomen
+ID: 1919 NAME: Dan Berkenstock: The world is one big dataset. Now, how to photograph it ... TAGS map, space, technology
+ID: 1920 NAME: Teddy Cruz: How architectural innovations migrate across borders TAGS Latin America, architecture, cities, design
+ID: 1921 NAME: Aparna Rao: Art that craves your attention TAGS TED Fellows, art, creativity, interface design
+ID: 1922 NAME: Alex Wissner-Gross: A new equation for intelligence TAGS TEDx, intelligence, mind, physics, science
+ID: 1923 NAME: Clayton Cameron: A-rhythm-etic. The math behind the beats TAGS math, music, performance
+ID: 1924 NAME: David Puttnam: Does the media have a "duty of care"? TAGS TEDx, democracy, journalism, media, politics
+ID: 1925 NAME: Yann Dall'Aglio: Love -- you're doing it wrong TAGS TEDx, culture, love, philosophy
+ID: 1926 NAME: Leyla Acaroglu: Paper beats plastic? How to rethink environmental folklore TAGS TED Conference, design, green, sustainability
+ID: 1927 NAME: Chris McKnett: The investment logic for sustainability TAGS business, finance, investment, sustainability
+ID: 1928 NAME: Rupal Patel: Synthetic voices, as unique as fingerprints TAGS science, speech, technology
+ID: 1929 NAME: Michael Metcalfe: We need money for aid. So let’s print it. TAGS economics, global issues, poverty
+ID: 1930 NAME: Roselinde Torres: What it takes to be a great leader TAGS business, leadership, motivation, women in business
+ID: 1931 NAME: Christopher Ryan: Are we designed to be sexual omnivores? TAGS TED Conference, culture, relationships, sex
+ID: 1932 NAME: Ash Beckham: We're all hiding something. Let's find the courage to open up TAGS TEDx, culture, empathy, happiness
+ID: 1933 NAME: Catherine Bracy: Why good hackers make good citizens TAGS cities, software, urban planning
+ID: 1934 NAME: Ajit Narayanan: A word game to communicate in any language TAGS TED Conference, disability, language, speech, technology
+ID: 1935 NAME: Siddharthan Chandran: Can the damaged brain repair itself? TAGS brain, health, neuroscience, science
+ID: 1936 NAME: Henry Lin: What we can learn from galaxies far, far away TAGS astronomy, dark matter, physics, science, space, universe, youth
+ID: 1937 NAME: Annette Heuser: The 3 agencies with the power to make or break economies TAGS business, finance, global issues
+ID: 1938 NAME: Philip Evans: How data will transform business TAGS business, economics
+ID: 1939 NAME: Mary Lou Jepsen: Could future devices read images from our brains? TAGS TED Conference, brain, creativity, neuroscience, science
+ID: 1940 NAME: Christopher Soghoian: Government surveillance — this is just the beginning TAGS Internet, TED Fellows, business, government
+ID: 1941 NAME: Manu Prakash: A 50-cent microscope that folds like origami TAGS TED Fellows, global issues, health, physics
+ID: 1942 NAME: Gabe Barcia-Colombo: My DNA vending machine TAGS DNA, TED Fellows, art
+ID: 1943 NAME: Anne-Marie Slaughter: Can we all "have it all"? TAGS inequality, men, policy, women, work
+ID: 1944 NAME: Toby Shapshak: You don't need an app for that TAGS Africa, innovation, technology
+ID: 1945 NAME: Carin Bondar: The birds and the bees are just the beginning TAGS animals, biology, sex
+ID: 1946 NAME: Daniel Reisel: The neuroscience of restorative justice TAGS TED Conference, brain, crime, culture, global issues, science
+ID: 1947 NAME: Norman Spack: How I help transgender teens become who they want to be TAGS LGBT, TEDx, gender, medicine, youth
+ID: 1948 NAME: Steven Pinker and Rebecca Newberger Goldstein: The long reach of reason TAGS TED Conference, brain, culture, philosophy
+ID: 1949 NAME: Charmian Gooch: My wish: To launch a new era of openness in business TAGS TED Conference, TED Prize, business, corruption, global issues
+ID: 1950 NAME: Edward Snowden: Here's how we take back the Internet TAGS Internet, TED Conference, journalism, law
+ID: 1951 NAME: Chris Hadfield: What I learned from going blind in space TAGS TED Conference, adventure, culture, fear, life, live music, space
+ID: 1952 NAME: Richard Ledgett: The NSA responds to Edward Snowden’s TED Talk TAGS TED Conference, culture, global issues, government, law
+ID: 1953 NAME: Larry Page: Where’s Google going next? TAGS AI, algorithm, business, intelligence
+ID: 1954 NAME: Ziauddin Yousafzai: My daughter, Malala TAGS education, family, feminism, global issues, women, yesallwomen
+ID: 1955 NAME: Ed Yong: Zombie roaches and other parasite tales TAGS TED Conference, biology, microbiology, science
+ID: 1956 NAME: Bran Ferren: To create for the ages, let's combine art and engineering TAGS TED Conference, ancient world, architecture, design, engineering
+ID: 1957 NAME: Jennifer Golbeck: The curly fry conundrum: Why social media “likes” say more than you might think TAGS TEDx, data, social media, sociology, technology
+ID: 1958 NAME: Del Harvey: Protecting Twitter users (sometimes from themselves) TAGS TED Conference, security, social media, technology
+ID: 1959 NAME: Hugh Herr: The new bionics that let us run, climb and dance TAGS TED Conference, dance, exoskeleton, prosthetics, technology
+ID: 1960 NAME: Lawrence Lessig: The unstoppable walk to political reform TAGS TED Conference, corruption, democracy, government, politics
+ID: 1961 NAME: Geena Rocero: Why I must come out TAGS LGBT, TED Conference, activism, beauty, fashion, gender, identity, inequality
+ID: 1962 NAME: TED staff: It's TED, the Musical TAGS dance, genetics, music
+ID: 1963 NAME: Allan Adams: The discovery that could rewrite physics TAGS TED Conference, astronomy, big bang, physics, space, time, universe
+ID: 1964 NAME: Bill and Melinda Gates: Why giving away our wealth has been the most satisfying thing we've done TAGS TED Conference, activism, business, money, philanthropy, relationships
+ID: 1965 NAME: Christopher Emdin: Teach teachers how to create magic TAGS education, science
+ID: 1966 NAME: Amanda Burden: How public spaces make cities work TAGS TED Conference, architecture, cities
+ID: 1969 NAME: Louie Schwartzberg: Hidden miracles of the natural world TAGS TED Conference, bacteria, film, insects, nanoscale, nature, photography
+ID: 1971 NAME: David Sengeh: The sore problem of prosthetic limbs TAGS Senses, TED Conference, TED Fellows, global issues, prosthetics, technology
+ID: 1972 NAME: Gabby Giffords and Mark Kelly: Be passionate. Be courageous. Be your best. TAGS TED Conference, politics, violence
+ID: 1973 NAME: David Brooks: Should you live for your résumé ... or your eulogy? TAGS TED Conference, philosophy, psychology, self, success
+ID: 1974 NAME: Jennifer Senior: For parents, happiness is a very high bar TAGS culture, family, parenting
+ID: 1976 NAME: Jeremy Kasdin: The flower-shaped starshade that might help us detect Earth-like planets TAGS Planets, TED Conference, astronomy, space, technology
+ID: 1977 NAME: Matthew Carter: My life in typefaces TAGS TED Conference, design, industrial design, typography
+ID: 1978 NAME: Sarah Lewis: Embrace the near win TAGS TED Conference, art, failure, motivation
+ID: 1979 NAME: Michel Laberge: How synchronized hammer strikes could generate nuclear fusion TAGS TED Conference, alternative energy, nuclear energy, science
+ID: 1981 NAME: Hamish Jolly: A shark-deterrent wetsuit (and it's not what you think) TAGS TEDx, biomimicry, design, oceans, sports
+ID: 1982 NAME: Will Marshall: Tiny satellites show us the Earth as it changes in near-real-time TAGS TED Conference, astronomy, space, technology
+ID: 1983 NAME: Elizabeth Gilbert: Success, failure and the drive to keep creating TAGS TED Conference, creativity, failure, success, writing
+ID: 1984 NAME: James Patten: The best computer interface? Maybe ... your hands TAGS Senses, TED Fellows, arts, design, interface design
+ID: 1985 NAME: Wendy Chung: Autism — what we know (and what we don’t know yet) TAGS TED Conference, cognitive science, genetics, health, neuroscience, science
+ID: 1986 NAME: David Epstein: Are athletes really getting faster, better, stronger? TAGS TED Conference, genetics, innovation, sports
+ID: 1987 NAME: Andrew Bastawrous: Get your next eye exam on a smartphone TAGS TED Conference, TED Fellows, health, invention, public health, sight
+ID: 1988 NAME: Gavin Schmidt: The emergent patterns of climate change TAGS TED Conference, climate change, environment, science
+ID: 1989 NAME: Sarah Jones: What does the future hold? 11 characters offer quirky answers TAGS TED Conference, future, humor, performance, theater
+ID: 1990 NAME: Mellody Hobson: Color blind or color brave? TAGS TED Conference, business, communication, inequality, race, women in business
+ID: 1991 NAME: Marco Tempest: And for my next trick, a robot TAGS TED Conference, entertainment, magic, robots, technology
+ID: 1992 NAME: Stanley McChrystal: The military case for sharing knowledge TAGS TED Conference, collaboration, iraq, military, war
+ID: 1993 NAME: Randall Munroe: Comics that ask "what if?" TAGS TED Conference, art, humor, math, physics, science
+ID: 1994 NAME: Mark Ronson: How sampling transformed music TAGS TED Conference, music, performance
+ID: 1995 NAME: Deborah Gordon: What ants teach us about the brain, cancer and the Internet TAGS TED Conference, ants, insects, nature, science
+ID: 1996 NAME: William Black: How to rob a bank (from the inside, that is) TAGS TEDx, business, crime, finance, law
+ID: 1997 NAME: Kevin Briggs: The bridge between suicide and life TAGS culture, depression, mental health, suicide
+ID: 1998 NAME: Simon Sinek: Why good leaders make you feel safe TAGS TED Conference, business, leadership, military, work
+ID: 1999 NAME: Sebastian Junger: Why veterans miss war TAGS film, global issues, journalism, peace, war
+ID: 2000 NAME: Rives: The Museum of Four in the Morning TAGS entertainment, humor, online video, spoken word, storytelling
+ID: 2001 NAME: Sara Lewis: The loves and lies of fireflies TAGS TED Conference, biology, evolution, insects
+ID: 2002 NAME: Tristram Wyatt: The smelly mystery of the human pheromone TAGS TEDx, animals, biology, smell
+ID: 2003 NAME: Jackie Savitz: Save the oceans, feed the world! TAGS TEDx, oceans, sustainability
+ID: 2004 NAME: Stephen Friend: The hunt for "unexpected genetic heroes" TAGS TED Conference, biology, data, disease, genetics, health, privacy
+ID: 2005 NAME: Andrew Solomon: How the worst moments in our lives make us who we are TAGS LGBT, TED Conference, culture, depression, identity, pain
+ID: 2006 NAME: Jon Mooallem: How the teddy bear taught us compassion TAGS TED Conference, environment, nature
+ID: 2007 NAME: Chris Kluwe: How augmented reality will change sports ... and build empathy TAGS TED Conference, sports, technology
+ID: 2008 NAME: Wes Moore: How to talk to veterans about the war TAGS peace, war
+ID: 2009 NAME: Kitra Cahana: A glimpse of life on the road TAGS TED Conference, TED Fellows, art, global issues, journalism, photography, youth
+ID: 2010 NAME: Sting: How I started writing songs again TAGS TED Conference, creativity, live music, music, performance
+ID: 2011 NAME: Kwame Anthony Appiah: Is religion good or bad? (This is a trick question) TAGS atheism, faith, global issues, philosophy, religion
+ID: 2012 NAME: Dan Gilbert: The psychology of your future self TAGS TED Conference, culture, humanity, psychology
+ID: 2013 NAME: Stephen Burt: Why people need poetry TAGS culture, language, poetry
+ID: 2014 NAME: Robert Full: The secrets of nature's grossest creatures, channeled into robots TAGS TED Conference, animals, design, robots, science, technology
+ID: 2015 NAME: Ray Kurzweil: Get ready for hybrid thinking TAGS AI, TED Conference, brain, cloud, evolution, future, technology
+ID: 2016 NAME: Yoruba Richen: What the gay rights movement learned from the civil rights movement TAGS LGBT, TED Conference, activism, film, inequality, race
+ID: 2017 NAME: Stella Young: I’m not your inspiration, thank you very much TAGS TEDx, activism, disability, humor, motivation
+ID: 2018 NAME: Will Potter: The shocking move to criminalize nonviolent protest TAGS TED Conference, TED Fellows, activism, animals, environment, journalism, politics, terrorism
+ID: 2019 NAME: Keren Elazari: Hackers: the Internet's immune system TAGS Internet, TED Conference, activism, crime, hack, terrorism
+ID: 2020 NAME: Uri Alon: Why truly innovative science demands a leap into the unknown TAGS creativity, science, theater
+ID: 2021 NAME: AJ Jacobs: The world's largest family reunion … we're all invited! TAGS entertainment, family, genetics, history, humanity, humor
+ID: 2022 NAME: Anne Curzan: What makes a word "real"? TAGS TEDx, culture, language
+ID: 2023 NAME: Ruth Chang: How to make hard choices TAGS choice, decision-making, philosophy
+ID: 2024 NAME: Zak Ebrahim: I am the son of a terrorist. Here's how I chose peace. TAGS Middle East, TED Conference, peace, terrorism, violence
+ID: 2025 NAME: Pico Iyer: The art of stillness TAGS happiness, meditation, mindfulness, peace, productivity
+ID: 2026 NAME: Avi Reichental: What’s next in 3D printing TAGS TED Conference, technology
+ID: 2027 NAME: David Kwong: Two nerdy obsessions meet -- and it's magic TAGS TED Conference, entertainment, magic
+ID: 2028 NAME: Jamila Lyiscott: 3 ways to speak English TAGS culture, language, race, spoken word
+ID: 2029 NAME: Shaka Senghor: Why your worst deeds don’t define you TAGS TED Conference, crime, culture, prison
+ID: 2030 NAME: Lorrie Faith Cranor: What’s wrong with your pa$$w0rd? TAGS TEDx, business, communication, hack, privacy, security, technology
+ID: 2031 NAME: Billy Collins: Two poems about what dogs think (probably) TAGS TED Conference, animals, creativity, death, love, poetry
+ID: 2032 NAME: Naomi Oreskes: Why we should trust scientists TAGS climate change, history, science
+ID: 2033 NAME: Ge Wang: The DIY orchestra of the future TAGS TEDx, music, technology
+ID: 2034 NAME: Julian Treasure: How to speak so that people want to listen TAGS culture, sound, speech
+ID: 2035 NAME: Chris Domas: The 1s and 0s behind cyber warfare TAGS TEDx, security, software, technology, terrorism, war
+ID: 2036 NAME: Simon Anholt: Which country does the most good for the world? TAGS Foreign Policy, global issues, government, policy, statistics
+ID: 2037 NAME: Paul Bloom: Can prejudice ever be a good thing? TAGS behavioral economics, mind, psychology
+ID: 2038 NAME: George Takei: Why I love a country that once betrayed me TAGS TEDx, arts, children, democracy, history, politics, storytelling, war
+ID: 2039 NAME: Margaret Gould Stewart: How giant websites design for you (and a billion others, too) TAGS TED Conference, business, culture, design, technology
+ID: 2041 NAME: Joi Ito: Want to innovate? Become a "now-ist" TAGS TED Conference, creativity, innovation, investment, science, technology, telecom
+ID: 2042 NAME: Karima Bennoune: When people of Muslim heritage challenge fundamentalism TAGS history, politics, religion, storytelling, terrorism, war
+ID: 2043 NAME: Nicholas Negroponte: A 30-year history of the future TAGS TED Conference, computers, future, innovation, intelligence, interface design, prediction, technology
+ID: 2044 NAME: Renata Salecl: Our unhealthy obsession with choice TAGS choice, culture, social change
+ID: 2045 NAME: David Chalmers: How do you explain consciousness? TAGS TED Conference, brain, consciousness, neuroscience, philosophy
+ID: 2046 NAME: Nikolai Begg: A tool to fix one of the most dangerous moments in surgery TAGS Surgery, engineering, invention, medicine, product design
+ID: 2047 NAME: Shih Chieh Huang: Sculptures that’d be at home in the deep sea TAGS TED Conference, TED Fellows, art, oceans
+ID: 2048 NAME: Heather Barnett: What humans can learn from semi-intelligent slime TAGS art, biology, science
+ID: 2049 NAME: Ze Frank: Are you human? TAGS TED Conference, comedy, community, entertainment, humanity, humor, performance
+ID: 2050 NAME: Shai Reshef: An ultra-low-cost college degree TAGS TED Conference, business, computers, education, open-source, technology
+ID: 2052 NAME: Janet Iwasa: How animations can help scientists test a hypothesis TAGS TED Conference, TED Fellows, biology, science, technology
+ID: 2053 NAME: Hubertus Knabe: The dark secrets of a surveillance state TAGS Europe, government, history, intelligence
+ID: 2054 NAME: Megan Washington: Why I live in mortal dread of public speaking TAGS TEDx, disability, live music, media, music, speech
+ID: 2055 NAME: Nick Hanauer: Beware, fellow plutocrats, the pitchforks are coming TAGS business, economics, inequality, social change
+ID: 2056 NAME: Talithia Williams: Own your body's data TAGS TEDx, data, health, heart health, statistics
+ID: 2057 NAME: Dan Pacholke: How prisons can help inmates live meaningful lives TAGS TEDx, crime, culture, global issues, prison, social change
+ID: 2059 NAME: Clint Smith: The danger of silence TAGS poetry, social change, spoken word
+ID: 2060 NAME: Eric Liu: Why ordinary people need to understand power TAGS democracy, policy, politics
+ID: 2061 NAME: Tim Berners-Lee: A Magna Carta for the web TAGS Internet, TED Conference, global issues, open-source, web
+ID: 2062 NAME: Jarrett J. Krosoczka: Why lunch ladies are heroes TAGS book, children, education
+ID: 2063 NAME: Ziyah Gafić: Everyday objects, tragic histories TAGS TED Conference, TED Fellows, photography, war
+ID: 2064 NAME: Aziza Chaouni: How I brought a river, and my city, back to life TAGS TED Conference, TED Fellows, activism, architecture, cities, sustainability
+ID: 2065 NAME: Rose Goslinga: Crop insurance, an idea worth seeding TAGS Africa, agriculture, global issues, microfinance
+ID: 2066 NAME: Laurel Braitman: Depressed dogs, cats with OCD — what animal madness means for us humans TAGS TED Fellows, animals, health, history, mental health, psychology, science
+ID: 2067 NAME: Martin Rees: Can we prevent the end of the world? TAGS TED Conference, future, humanity
+ID: 2068 NAME: Meera Vijayann: Find your voice against gender violence TAGS TEDx, activism, gender, media, violence, women
+ID: 2069 NAME: Andrew Connolly: What's the next window into our universe? TAGS TED Conference, astronomy, space, technology, universe
+ID: 2070 NAME: Isabel Allende: How to live passionately—no matter your age TAGS TED Conference, aging, storytelling
+ID: 2071 NAME: Jill Shargaa: Please, please, people. Let's put the 'awe' back in 'awesome' TAGS comedy, humor, language
+ID: 2072 NAME: Jim Holt: Why does the universe exist? TAGS TED Conference, philosophy
+ID: 2073 NAME: Sally Kohn: Don't like clickbait? Don't click TAGS communication, media, social change, social media, technology
+ID: 2074 NAME: Colin Grant: How our stories cross over TAGS TEDx, children, culture, family, history, identity, parenting, society, storytelling
+ID: 2075 NAME: Shubhendu Sharma: How to grow a tiny forest anywhere TAGS TED Conference, TED Fellows, engineering, garden, nature, open-source, trees
+ID: 2076 NAME: Rishi Manchanda: What makes us get sick? Look upstream. TAGS health, health care
+ID: 2077 NAME: Nancy Kanwisher: A neural portrait of the human mind TAGS TED Conference, brain, neuroscience, visualizations
+ID: 2078 NAME: Dan Barasch: A park underneath the hustle and bustle of New York City TAGS New York, architecture, cities
+ID: 2088 NAME: Antonio Donato Nobre: The magic of the Amazon: A river that flows invisibly all around us TAGS TEDx, climate change, nature, trees
+ID: 2089 NAME: Uldus Bakhtiozina: Wry photos that turn stereotypes upside down TAGS TED Conference, TED Fellows, art, humor, photography
+ID: 2090 NAME: Hans and Ola Rosling: How not to be ignorant about the world TAGS global issues, health, statistics
+ID: 2091 NAME: Mac Barnett: Why a good book is a secret door TAGS books, children, creativity
+ID: 2092 NAME: Moshe Safdie: How to reinvent the apartment building TAGS TED Conference, architecture, cities, design
+ID: 2093 NAME: Lord Nicholas Stern: The state of the climate — and what we might do about it TAGS business, climate change, economics, global issues
+ID: 2094 NAME: Kenneth Cukier: Big data is better data TAGS data, future, technology
+ID: 2095 NAME: Eman Mohammed: The courage to tell a hidden story TAGS Middle East, TED Conference, TED Fellows, gender, global issues, journalism, photography, women
+ID: 2096 NAME: Matthew O'Reilly: “Am I dying?” The honest answer. TAGS death, health, medicine
+ID: 2097 NAME: Francis de los Reyes: Sanitation is a basic human right TAGS TED Fellows, global issues, health, public health, sanitation
+ID: 2098 NAME: Gail Reed: Where to train the world's doctors? Cuba. TAGS global issues, health care, public health
+ID: 2099 NAME: Susan Colantuono: The career advice you probably didn’t get TAGS TEDx, business, gender, leadership, men, women, women in business
+ID: 2100 NAME: Daria van den Bercken: Why I take the piano on the road … and in the air TAGS music, piano
+ID: 2101 NAME: Thomas Piketty: New thoughts on capital in the twenty-first century TAGS economics, global issues, inequality
+ID: 2102 NAME: Meaghan Ramsey: Why thinking you're ugly is bad for you TAGS beauty, life, women
+ID: 2103 NAME: Jeff Iliff: One more reason to get a good night’s sleep TAGS brain, mind, neuroscience, science
+ID: 2104 NAME: Pia Mancini: How to upgrade democracy for the Internet era TAGS government, open-source, politics, technology
+ID: 2105 NAME: Dilip Ratha: The hidden force in global economics: sending money home TAGS business, economics, finance
+ID: 2106 NAME: Glenn Greenwald: Why privacy matters TAGS Internet, government, intelligence, journalism, privacy
+ID: 2107 NAME: Alessandra Orofino: It’s our city. Let’s fix it TAGS cities, community, politics, technology
+ID: 2108 NAME: Myriam Sidibe: The simple power of hand-washing TAGS children, global issues, health, public health, sanitation
+ID: 2109 NAME: Jorge Soto: The future of early cancer detection? TAGS biotech, cancer, health, technology
+ID: 2110 NAME: Melissa Fleming: Let’s help refugees thrive, not just survive TAGS education, global issues, poverty, war
+ID: 2111 NAME: Kitra Cahana: My father, locked in his body but soaring free TAGS TED Fellows, health, love, medicine, photography, religion
+ID: 2112 NAME: Susan Etlinger: What do we do with all this big data? TAGS data
+ID: 2113 NAME: Fred Swaniker: The leaders who ruined Africa, and the generation who can fix it TAGS Africa, TED Fellows, education, entrepreneur, leadership
+ID: 2114 NAME: Joy Sun: Should you donate differently? TAGS TED Fellows, global issues, money
+ID: 2115 NAME: Marc Abrahams: A science award that makes you laugh, then think TAGS humor, science, technology
+ID: 2116 NAME: Fabien Cousteau: What I learned from spending 31 days underwater TAGS adventure, biodiversity, exploration, oceans, submarine
+ID: 2117 NAME: Frans Lanting: Photos that give voice to the animal kingdom TAGS animals, nature, photography
+ID: 2118 NAME: Kimberley Motley: How I defend the rule of law TAGS crime, global issues, law, women
+ID: 2119 NAME: Sergei Lupashin: A flying camera ... on a leash TAGS TED Fellows, drones, photography, robots, technology
+ID: 2120 NAME: Debra Jarvis: Yes, I survived cancer. But that doesn't define me TAGS cancer, health care, identity
+ID: 2121 NAME: Jeremy Heimans: What new power looks like TAGS activism, politics, technology
+ID: 2122 NAME: Kare Anderson: Be an opportunity maker TAGS business, communication, creativity, relationships, work
+ID: 2126 NAME: Jose Miguel Sokoloff: How Christmas lights helped guerrillas put down their guns TAGS advertising, creativity, war
+ID: 2127 NAME: Ameenah Gurib-Fakim: Humble plants that hide surprising secrets TAGS Planets, biodiversity, biology, nature
+ID: 2128 NAME: Alejandro Aravena: My architectural philosophy? Bring the community into the process TAGS architecture, cities, design
+ID: 2129 NAME: Haas&Hahn: How painting can transform communities TAGS art, cities, community
+ID: 2130 NAME: Ethan Nadelmann: Why we need to end the War on Drugs TAGS crime, global issues, policy
+ID: 2131 NAME: Vincent Moon and Naná Vasconcelos: Hidden music rituals around the world TAGS film, live music, music
+ID: 2132 NAME: Ramanan Laxminarayan: The coming crisis in antibiotics TAGS economics, global issues, health, medical research, medicine
+ID: 2133 NAME: Leana Wen: What your doctor won’t disclose TAGS business, health care, medicine, morality
+ID: 2134 NAME: Michael Green: What the Social Progress Index can reveal about your country TAGS economics, global issues, policy, statistics
+ID: 2135 NAME: David Grady: How to save the world (or at least yourself) from bad meetings TAGS business, communication, productivity, work
+ID: 2136 NAME: Rosie King: How autism freed me to be myself TAGS activism, disability, mind, youth
+ID: 2137 NAME: Nancy Frates: Meet the mom who started the Ice Bucket Challenge TAGS TEDx, disease, family, health, philanthropy
+ID: 2138 NAME: Joe Landolina: This gel can make you stop bleeding instantly TAGS TED Fellows, invention, medicine, science, war
+ID: 2139 NAME: Robert Muggah: How to protect fast-growing cities from failing TAGS cities, global issues, violence, war, youth
+ID: 2140 NAME: Emily Balcetis: Why some people find exercise harder than others TAGS TEDx, decision-making, health, mind, psychology
+ID: 2141 NAME: Mark Plotkin: What the people of the Amazon know that you don’t TAGS medicine, world cultures
+ID: 2142 NAME: Oren Yakobovich: Hidden cameras that film injustice in the world’s most dangerous places TAGS activism, film, global issues, online video, social change
+ID: 2143 NAME: Ben Saunders: To the South Pole and back — the hardest 105 days of my life TAGS adventure, exploration, extreme sports, personal growth, potential
+ID: 2144 NAME: Rainer Strack: The workforce crisis of 2030 -- and how to start solving it now TAGS business, global issues, productivity, work
+ID: 2145 NAME: Barbara Natterson-Horowitz: What veterinarians know that physicians don't TAGS animals, biology, evolution, medicine, mental health
+ID: 2146 NAME: Anastasia Taylor-Lind: Fighters and mourners of the Ukrainian revolution TAGS TED Fellows, photography, war
+ID: 2147 NAME: Aakash Odedra: A dance in a hurricane of paper, wind and light TAGS dance, music, performance
+ID: 2148 NAME: Thomas Hellum: The world's most boring television ... and why it's hilariously addictive TAGS TEDx, arts, entertainment, film, storytelling
+ID: 2149 NAME: Catherine Crump: The small and surprisingly dangerous detail the police track about you TAGS TED Fellows, data, privacy
+ID: 2150 NAME: Dave Troy: Social maps that reveal a city's intersections — and separations TAGS cities, culture, social media, visualizations
+ID: 2151 NAME: Vernā Myers: How to overcome our biases? Walk boldly toward them TAGS inequality, race, social change, society
+ID: 2154 NAME: Bruno Torturra: Got a smartphone? Start broadcasting TAGS activism, journalism, media, online video, politics, social media, web
+ID: 2155 NAME: Jeremy Howard: The wonderful and terrifying implications of computers that can learn TAGS AI, algorithm, computers, health, intelligence, technology
+ID: 2156 NAME: Carol Dweck: The power of believing that you can improve TAGS brain, business, education, intelligence, personal growth, psychology
+ID: 2157 NAME: Mundano: Pimp my ... trash cart? TAGS Brazil, TED Fellows, art, social change
+ID: 2158 NAME: Erin McKean: Go ahead, make up new words! TAGS communication, creativity, language
+ID: 2159 NAME: Michael Rubinstein: See invisible motion, hear silent sounds TAGS demo, film, online video, photography, sight, sound, technology
+ID: 2160 NAME: Asha de Vos: Why you should care about whale poo TAGS TED Fellows, biology, nature, oceans
+ID: 2161 NAME: Aziz Abu Sarah: For more tolerance, we need more ... tourism? TAGS Middle East, TED Fellows, activism, culture, peace, violence, war
+ID: 2162 NAME: Daniele Quercia: Happy maps TAGS cities, design, happiness, map, technology
+ID: 2163 NAME: Cristina Domenech: Poetry that frees the soul TAGS creativity, crime, education, language, poetry, prison
+ID: 2164 NAME: Fredy Peccerelli: A forensic anthropologist who brings closure for the "disappeared" TAGS anthropology, global issues, war
+ID: 2165 NAME: Robert Swan: Let's save the last pristine continent TAGS climate change, environment, exploration
+ID: 2166 NAME: Tasso Azevedo: Hopeful lessons from the battle to save rainforests TAGS climate change, politics, science
+ID: 2167 NAME: Navi Radjou: Creative problem-solving in the face of extreme limits TAGS business, entrepreneur, innovation
+ID: 2168 NAME: Matthieu Ricard: How to let altruism be your guide TAGS communication, compassion
+ID: 2169 NAME: Bassam Tariq: The beauty and diversity of Muslim life TAGS creativity, film, writing
+ID: 2170 NAME: Sarah Bergbreiter: Why I make robots the size of a grain of rice TAGS engineering, robots, technology
+ID: 2171 NAME: Morgana Bailey: The danger of hiding who you are TAGS LGBT, business, social change, work
+ID: 2172 NAME: Miguel Nicolelis: Brain-to-brain communication has arrived. How we did it TAGS brain, communication, neuroscience
+ID: 2173 NAME: Joe Madiath: Better toilets, better life TAGS development, sanitation, water
+ID: 2174 NAME: Severine Autesserre: To solve mass violence, look to locals TAGS government, peace, war
+ID: 2175 NAME: Khadija Gbla: My mother’s strange definition of empowerment TAGS Africa, culture, global issues, women
+ID: 2176 NAME: Zeynep Tufekci: How the Internet has made social change easy to organize, hard to win TAGS activism, protests, social change, social media, society, sociology, technology
+ID: 2177 NAME: Bruce Aylward: Humanity vs. Ebola. The winning strategies in a terrifying war TAGS disease, epidemiology, health, public health, virus
+ID: 2178 NAME: Ben Ambridge: 10 myths about psychology: Debunked TAGS brain, education, psychology
+ID: 2179 NAME: Tom Wujec: Got a wicked problem? First, tell me how you make toast TAGS business, collaboration, creativity, design, leadership

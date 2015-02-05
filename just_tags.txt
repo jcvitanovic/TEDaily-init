@@ -1666,3 +1666,248 @@
 1910|depression,health,heart health,women
 1911|business,leadership,productivity,work
 1912|communication,entertainment,fear
+1913|Internet,TED Conference,education,technology
+1914|crime,data
+1915|activism,toy,youth
+1916|TEDx,animals,complexity
+1917|creativity,entrepreneur
+1918|gender,violence,women,yesallwomen
+1919|map,space,technology
+1920|Latin America,architecture,cities,design
+1921|TED Fellows,art,creativity,interface design
+1922|TEDx,intelligence,mind,physics,science
+1923|math,music,performance
+1924|TEDx,democracy,journalism,media,politics
+1925|TEDx,culture,love,philosophy
+1926|TED Conference,design,green,sustainability
+1927|business,finance,investment,sustainability
+1928|science,speech,technology
+1929|economics,global issues,poverty
+1930|business,leadership,motivation,women in business
+1931|TED Conference,culture,relationships,sex
+1932|TEDx,culture,empathy,happiness
+1933|cities,software,urban planning
+1934|TED Conference,disability,language,speech,technology
+1935|brain,health,neuroscience,science
+1936|astronomy,dark matter,physics,science,space,universe,youth
+1937|business,finance,global issues
+1938|business,economics
+1939|TED Conference,brain,creativity,neuroscience,science
+1940|Internet,TED Fellows,business,government
+1941|TED Fellows,global issues,health,physics
+1942|DNA,TED Fellows,art
+1943|inequality,men,policy,women,work
+1944|Africa,innovation,technology
+1945|animals,biology,sex
+1946|TED Conference,brain,crime,culture,global issues,science
+1947|LGBT,TEDx,gender,medicine,youth
+1948|TED Conference,brain,culture,philosophy
+1949|TED Conference,TED Prize,business,corruption,global issues
+1950|Internet,TED Conference,journalism,law
+1951|TED Conference,adventure,culture,fear,life,live music,space
+1952|TED Conference,culture,global issues,government,law
+1953|AI,algorithm,business,intelligence
+1954|education,family,feminism,global issues,women,yesallwomen
+1955|TED Conference,biology,microbiology,science
+1956|TED Conference,ancient world,architecture,design,engineering
+1957|TEDx,data,social media,sociology,technology
+1958|TED Conference,security,social media,technology
+1959|TED Conference,dance,exoskeleton,prosthetics,technology
+1960|TED Conference,corruption,democracy,government,politics
+1961|LGBT,TED Conference,activism,beauty,fashion,gender,identity,inequality
+1962|dance,genetics,music
+1963|TED Conference,astronomy,big bang,physics,space,time,universe
+1964|TED Conference,activism,business,money,philanthropy,relationships
+1965|education,science
+1966|TED Conference,architecture,cities
+1969|TED Conference,bacteria,film,insects,nanoscale,nature,photography
+1971|Senses,TED Conference,TED Fellows,global issues,prosthetics,technology
+1972|TED Conference,politics,violence
+1973|TED Conference,philosophy,psychology,self,success
+1974|culture,family,parenting
+1976|Planets,TED Conference,astronomy,space,technology
+1977|TED Conference,design,industrial design,typography
+1978|TED Conference,art,failure,motivation
+1979|TED Conference,alternative energy,nuclear energy,science
+1981|TEDx,biomimicry,design,oceans,sports
+1982|TED Conference,astronomy,space,technology
+1983|TED Conference,creativity,failure,success,writing
+1984|Senses,TED Fellows,arts,design,interface design
+1985|TED Conference,cognitive science,genetics,health,neuroscience,science
+1986|TED Conference,genetics,innovation,sports
+1987|TED Conference,TED Fellows,health,invention,public health,sight
+1988|TED Conference,climate change,environment,science
+1989|TED Conference,future,humor,performance,theater
+1990|TED Conference,business,communication,inequality,race,women in business
+1991|TED Conference,entertainment,magic,robots,technology
+1992|TED Conference,collaboration,iraq,military,war
+1993|TED Conference,art,humor,math,physics,science
+1994|TED Conference,music,performance
+1995|TED Conference,ants,insects,nature,science
+1996|TEDx,business,crime,finance,law
+1997|culture,depression,mental health,suicide
+1998|TED Conference,business,leadership,military,work
+1999|film,global issues,journalism,peace,war
+2000|entertainment,humor,online video,spoken word,storytelling
+2001|TED Conference,biology,evolution,insects
+2002|TEDx,animals,biology,smell
+2003|TEDx,oceans,sustainability
+2004|TED Conference,biology,data,disease,genetics,health,privacy
+2005|LGBT,TED Conference,culture,depression,identity,pain
+2006|TED Conference,environment,nature
+2007|TED Conference,sports,technology
+2008|peace,war
+2009|TED Conference,TED Fellows,art,global issues,journalism,photography,youth
+2010|TED Conference,creativity,live music,music,performance
+2011|atheism,faith,global issues,philosophy,religion
+2012|TED Conference,culture,humanity,psychology
+2013|culture,language,poetry
+2014|TED Conference,animals,design,robots,science,technology
+2015|AI,TED Conference,brain,cloud,evolution,future,technology
+2016|LGBT,TED Conference,activism,film,inequality,race
+2017|TEDx,activism,disability,humor,motivation
+2018|TED Conference,TED Fellows,activism,animals,environment,journalism,politics,terrorism
+2019|Internet,TED Conference,activism,crime,hack,terrorism
+2020|creativity,science,theater
+2021|entertainment,family,genetics,history,humanity,humor
+2022|TEDx,culture,language
+2023|choice,decision-making,philosophy
+2024|Middle East,TED Conference,peace,terrorism,violence
+2025|happiness,meditation,mindfulness,peace,productivity
+2026|TED Conference,technology
+2027|TED Conference,entertainment,magic
+2028|culture,language,race,spoken word
+2029|TED Conference,crime,culture,prison
+2030|TEDx,business,communication,hack,privacy,security,technology
+2031|TED Conference,animals,creativity,death,love,poetry
+2032|climate change,history,science
+2033|TEDx,music,technology
+2034|culture,sound,speech
+2035|TEDx,security,software,technology,terrorism,war
+2036|Foreign Policy,global issues,government,policy,statistics
+2037|behavioral economics,mind,psychology
+2038|TEDx,arts,children,democracy,history,politics,storytelling,war
+2039|TED Conference,business,culture,design,technology
+2041|TED Conference,creativity,innovation,investment,science,technology,telecom
+2042|history,politics,religion,storytelling,terrorism,war
+2043|TED Conference,computers,future,innovation,intelligence,interface design,prediction,technology
+2044|choice,culture,social change
+2045|TED Conference,brain,consciousness,neuroscience,philosophy
+2046|Surgery,engineering,invention,medicine,product design
+2047|TED Conference,TED Fellows,art,oceans
+2048|art,biology,science
+2049|TED Conference,comedy,community,entertainment,humanity,humor,performance
+2050|TED Conference,business,computers,education,open-source,technology
+2052|TED Conference,TED Fellows,biology,science,technology
+2053|Europe,government,history,intelligence
+2054|TEDx,disability,live music,media,music,speech
+2055|business,economics,inequality,social change
+2056|TEDx,data,health,heart health,statistics
+2057|TEDx,crime,culture,global issues,prison,social change
+2059|poetry,social change,spoken word
+2060|democracy,policy,politics
+2061|Internet,TED Conference,global issues,open-source,web
+2062|book,children,education
+2063|TED Conference,TED Fellows,photography,war
+2064|TED Conference,TED Fellows,activism,architecture,cities,sustainability
+2065|Africa,agriculture,global issues,microfinance
+2066|TED Fellows,animals,health,history,mental health,psychology,science
+2067|TED Conference,future,humanity
+2068|TEDx,activism,gender,media,violence,women
+2069|TED Conference,astronomy,space,technology,universe
+2070|TED Conference,aging,storytelling
+2071|comedy,humor,language
+2072|TED Conference,philosophy
+2073|communication,media,social change,social media,technology
+2074|TEDx,children,culture,family,history,identity,parenting,society,storytelling
+2075|TED Conference,TED Fellows,engineering,garden,nature,open-source,trees
+2076|health,health care
+2077|TED Conference,brain,neuroscience,visualizations
+2078|New York,architecture,cities
+2088|TEDx,climate change,nature,trees
+2089|TED Conference,TED Fellows,art,humor,photography
+2090|global issues,health,statistics
+2091|books,children,creativity
+2092|TED Conference,architecture,cities,design
+2093|business,climate change,economics,global issues
+2094|data,future,technology
+2095|Middle East,TED Conference,TED Fellows,gender,global issues,journalism,photography,women
+2096|death,health,medicine
+2097|TED Fellows,global issues,health,public health,sanitation
+2098|global issues,health care,public health
+2099|TEDx,business,gender,leadership,men,women,women in business
+2100|music,piano
+2101|economics,global issues,inequality
+2102|beauty,life,women
+2103|brain,mind,neuroscience,science
+2104|government,open-source,politics,technology
+2105|business,economics,finance
+2106|Internet,government,intelligence,journalism,privacy
+2107|cities,community,politics,technology
+2108|children,global issues,health,public health,sanitation
+2109|biotech,cancer,health,technology
+2110|education,global issues,poverty,war
+2111|TED Fellows,health,love,medicine,photography,religion
+2112|data
+2113|Africa,TED Fellows,education,entrepreneur,leadership
+2114|TED Fellows,global issues,money
+2115|humor,science,technology
+2116|adventure,biodiversity,exploration,oceans,submarine
+2117|animals,nature,photography
+2118|crime,global issues,law,women
+2119|TED Fellows,drones,photography,robots,technology
+2120|cancer,health care,identity
+2121|activism,politics,technology
+2122|business,communication,creativity,relationships,work
+2126|advertising,creativity,war
+2127|Planets,biodiversity,biology,nature
+2128|architecture,cities,design
+2129|art,cities,community
+2130|crime,global issues,policy
+2131|film,live music,music
+2132|economics,global issues,health,medical research,medicine
+2133|business,health care,medicine,morality
+2134|economics,global issues,policy,statistics
+2135|business,communication,productivity,work
+2136|activism,disability,mind,youth
+2137|TEDx,disease,family,health,philanthropy
+2138|TED Fellows,invention,medicine,science,war
+2139|cities,global issues,violence,war,youth
+2140|TEDx,decision-making,health,mind,psychology
+2141|medicine,world cultures
+2142|activism,film,global issues,online video,social change
+2143|adventure,exploration,extreme sports,personal growth,potential
+2144|business,global issues,productivity,work
+2145|animals,biology,evolution,medicine,mental health
+2146|TED Fellows,photography,war
+2147|dance,music,performance
+2148|TEDx,arts,entertainment,film,storytelling
+2149|TED Fellows,data,privacy
+2150|cities,culture,social media,visualizations
+2151|inequality,race,social change,society
+2154|activism,journalism,media,online video,politics,social media,web
+2155|AI,algorithm,computers,health,intelligence,technology
+2156|brain,business,education,intelligence,personal growth,psychology
+2157|Brazil,TED Fellows,art,social change
+2158|communication,creativity,language
+2159|demo,film,online video,photography,sight,sound,technology
+2160|TED Fellows,biology,nature,oceans
+2161|Middle East,TED Fellows,activism,culture,peace,violence,war
+2162|cities,design,happiness,map,technology
+2163|creativity,crime,education,language,poetry,prison
+2164|anthropology,global issues,war
+2165|climate change,environment,exploration
+2166|climate change,politics,science
+2167|business,entrepreneur,innovation
+2168|communication,compassion
+2169|creativity,film,writing
+2170|engineering,robots,technology
+2171|LGBT,business,social change,work
+2172|brain,communication,neuroscience
+2173|development,sanitation,water
+2174|government,peace,war
+2175|Africa,culture,global issues,women
+2176|activism,protests,social change,social media,society,sociology,technology
+2177|disease,epidemiology,health,public health,virus
+2178|brain,education,psychology
+2179|business,collaboration,creativity,design,leadership

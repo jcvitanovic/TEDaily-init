@@ -1,338 +1,340 @@
 Moon : 1 
 Brand : 1 
 immigration : 1 
-privacy : 1 
-meditation : 1 
+books : 1 
 Debate : 1 
 dinosaurs : 1 
 skateboarding : 1 
 pandemic : 1 
 mobility : 1 
-mindfulness : 1 
-policy : 1 
-pain : 1 
-exoskeleton : 2 
+cloud : 1 
 jazz : 2 
 geology : 2 
-ants : 2 
 shopping : 2 
+meditation : 2 
 origami : 2 
-microfinance : 2 
+mindfulness : 2 
 mining : 2 
-empathy : 2 
 solar : 2 
 cyborg : 2 
 nuclear weapons : 2 
-speech : 2 
+pain : 2 
 evil : 2 
 glacier : 2 
 microsoft : 2 
+exoskeleton : 3 
 population : 3 
-big bang : 3 
+ants : 3 
 chautauqua : 3 
 vocals : 3 
-epidemiology : 3 
 aircraft : 3 
-Surgery : 3 
 botany : 3 
+microfinance : 3 
 oil : 3 
+empathy : 3 
 Christianity : 3 
 novel : 3 
 apes : 3 
 cello : 3 
 rocket science : 3 
 composing : 3 
-virus : 3 
 trafficking : 3 
 One Laptop Per Child : 4 
-nuclear energy : 4 
-nanoscale : 4 
-Foreign Policy : 4 
+big bang : 4 
 primates : 4 
 monkeys : 4 
-extreme sports : 4 
-prediction : 4 
 United States : 4 
+epidemiology : 4 
+Surgery : 4 
 Iran : 4 
 human origins : 4 
-dark matter : 4 
 wind energy : 4 
-New York : 4 
 Slavery : 4 
 bullying : 4 
-algorithm : 4 
-LGBT : 4 
-atheism : 4 
-typography : 5 
+virus : 4 
+nuclear energy : 5 
+nanoscale : 5 
+Foreign Policy : 5 
+extreme sports : 5 
+privacy : 5 
+prediction : 5 
 cooperation : 5 
-men : 5 
 NASA : 5 
 student : 5 
 Vaccines : 5 
-failure : 5 
+dark matter : 5 
+New York : 5 
 state-building : 5 
-finance : 5 
 wunderkind : 5 
 curiosity : 5 
 meme : 5 
+atheism : 5 
 Islam : 5 
-hack : 6 
-telecom : 6 
 weather : 6 
-sound : 6 
 paleontology : 6 
-Latin America : 6 
-suicide : 6 
+typography : 6 
 extraterrestrial life : 6 
-Brazil : 6 
 Buddhism : 6 
 TEDBooks : 6 
-sanitation : 6 
+policy : 6 
 violin : 6 
+speech : 6 
 interview : 6 
+algorithm : 6 
 solar energy : 6 
-spoken word : 7 
-behavioral economics : 7 
-trees : 7 
-gender : 7 
-fashion : 7 
+telecom : 7 
+Latin America : 7 
+suicide : 7 
 deextinction : 7 
-sociology : 7 
 wikipedia : 7 
-ancient world : 7 
-submarine : 7 
-biomimicry : 7 
-smell : 7 
+men : 7 
+Brazil : 7 
 conducting : 7 
+failure : 7 
 natural disaster : 7 
 cosmos : 7 
-yesallwomen : 7 
-productivity : 7 
 Google : 7 
 charter for compassion : 8 
 TED-Ed : 8 
-intelligence : 8 
-protests : 8 
-fear : 8 
-family : 8 
-prison : 8 
+hack : 8 
+behavioral economics : 8 
+sound : 8 
 obesity : 8 
+fashion : 8 
+ancient world : 8 
 biomechanics : 8 
 birds : 8 
-decision-making : 8 
 plastic : 8 
-advertising : 8 
-Europe : 8 
-iraq : 8 
+submarine : 8 
+biomimicry : 8 
+smell : 8 
 performance art : 8 
-world cultures : 8 
 pollution : 8 
+protests : 9 
+fear : 9 
+trees : 9 
 String theory : 9 
-map : 9 
-sight : 9 
+sociology : 9 
 news : 9 
 museums : 9 
-heart health : 9 
+advertising : 9 
+Europe : 9 
 bees : 9 
-microbiology : 9 
+iraq : 9 
+sanitation : 9 
+yesallwomen : 9 
+finance : 9 
 flight : 9 
-bacteria : 9 
-potential : 9 
-morality : 9 
-time : 9 
+world cultures : 9 
+LGBT : 9 
+spoken word : 10 
 chemistry : 10 
-race : 10 
-Planets : 10 
+decision-making : 10 
 body language : 10 
-military : 10 
-security : 10 
+heart health : 10 
+microbiology : 10 
+productivity : 10 
+bacteria : 10 
+potential : 10 
 illness : 10 
 neurology : 10 
-identity : 10 
-theater : 10 
+morality : 10 
 Egypt : 10 
-Middle East : 11 
-corruption : 11 
+time : 10 
+prison : 11 
+map : 11 
+sight : 11 
 big problems : 11 
-Senses : 11 
-prosthetics : 11 
 guitar : 11 
-consciousness : 12 
-urban planning : 12 
 presentation : 12 
-garden : 12 
-product design : 12 
-anthropology : 12 
+Planets : 12 
 library : 12 
-depression : 12 
 MacArthur grant : 12 
+military : 12 
 AIDS : 12 
-toy : 12 
 God : 12 
 goal-setting : 12 
 play : 12 
-AI : 12 
-water : 12 
 singer : 12 
+theater : 12 
+consciousness : 13 
 mission blue : 13 
-relationships : 13 
-death : 13 
-disability : 13 
-piano : 13 
-magic : 13 
-success : 13 
+family : 13 
+urban planning : 13 
+garden : 13 
+product design : 13 
+gender : 13 
+anthropology : 13 
+corruption : 13 
 biosphere : 13 
-DNA : 13 
-motivation : 13 
-industrial design : 13 
+toy : 13 
+Senses : 13 
+security : 13 
+prosthetics : 13 
 simplicity : 13 
 literature : 13 
-investment : 14 
-faith : 14 
-drones : 14 
+water : 13 
+Middle East : 14 
+piano : 14 
+race : 14 
+depression : 14 
 memory : 14 
-compassion : 14 
-public health : 14 
-aging : 14 
-terrorism : 14 
-complexity : 14 
+DNA : 14 
+industrial design : 14 
+identity : 14 
 materials : 14 
-choice : 15 
-women in business : 15 
+intelligence : 15 
+death : 15 
+magic : 15 
+success : 15 
+faith : 15 
 china : 15 
-inequality : 15 
-personal growth : 15 
-cognitive science : 15 
+drones : 15 
+compassion : 15 
+aging : 15 
 illusion : 15 
-feminism : 16 
+AI : 15 
+complexity : 15 
+relationships : 16 
 fish : 16 
-agriculture : 16 
+investment : 16 
 third world : 16 
 cars : 16 
 marketing : 16 
-online video : 16 
-interface design : 16 
-statistics : 16 
-journalism : 16 
-dance : 17 
-money : 17 
+motivation : 16 
+cognitive science : 16 
+disability : 17 
+feminism : 17 
+choice : 17 
+agriculture : 17 
 consumerism : 17 
-parenting : 17 
-software : 17 
 disaster relief : 17 
-mind : 17 
-democracy : 18 
-beauty : 18 
-adventure : 19 
-mental health : 20 
-genetics : 20 
-insects : 20 
-crime : 20 
-biotech : 20 
-open-source : 21 
-medical research : 21 
-love : 21 
-cancer : 21 
-leadership : 22 
-sports : 22 
+personal growth : 17 
+women in business : 18 
+money : 19 
+parenting : 19 
+software : 19 
+interface design : 19 
+public health : 19 
+terrorism : 19 
+dance : 20 
+online video : 20 
+statistics : 20 
+beauty : 20 
+biotech : 21 
+medical research : 22 
+inequality : 22 
 Asia : 22 
-astronomy : 22 
-government : 22 
-alternative energy : 23 
-universe : 23 
-sex : 23 
-TED Prize : 23 
-youth : 23 
-neuroscience : 23 
-comedy : 23 
-social media : 23 
-violence : 24 
+mind : 22 
+democracy : 22 
+adventure : 22 
+mental health : 23 
+cancer : 23 
+insects : 23 
+alternative energy : 24 
 gaming : 24 
-book : 26 
-work : 26 
-self : 26 
-law : 27 
-philanthropy : 27 
+TED Prize : 24 
+love : 24 
+journalism : 24 
+open-source : 25 
+genetics : 25 
+sex : 25 
+sports : 25 
+comedy : 25 
+universe : 26 
+book : 27 
+leadership : 27 
+self : 27 
+astronomy : 27 
 transportation : 28 
-web : 29 
-space : 29 
-humanity : 30 
-nature : 30 
-biodiversity : 30 
-language : 30 
-robots : 30 
-disease : 30 
-climate change : 31 
-peace : 32 
-writing : 33 
-math : 33 
-data : 33 
-entrepreneur : 34 
-demo : 34 
-visualizations : 34 
-Internet : 35 
-society : 35 
-religion : 35 
-poetry : 35 
+crime : 29 
+philanthropy : 29 
+youth : 29 
+social media : 29 
+violence : 30 
+neuroscience : 30 
+government : 30 
+web : 31 
+law : 31 
+biodiversity : 32 
+work : 32 
+disease : 33 
+humanity : 34 
+robots : 34 
+writing : 35 
+math : 35 
+demo : 35 
 energy : 36 
-engineering : 37 
-community : 38 
-philosophy : 39 
-sustainability : 39 
-physics : 40 
-poverty : 41 
-development : 41 
-film : 42 
+space : 36 
+visualizations : 36 
+climate change : 37 
+language : 37 
+entrepreneur : 37 
+nature : 38 
+society : 38 
+religion : 38 
+peace : 38 
+poetry : 39 
+data : 40 
+Internet : 41 
+community : 41 
+engineering : 41 
+development : 42 
 food : 43 
-live music : 43 
-future : 43 
-media : 43 
-oceans : 44 
-exploration : 46 
-evolution : 47 
-green : 47 
-innovation : 49 
-communication : 49 
-women : 49 
-happiness : 50 
-life : 50 
-architecture : 52 
-activism : 53 
-computers : 53 
-TED Fellows : 55 
-photography : 59 
-animals : 61 
-humor : 61 
-war : 62 
-performance : 63 
-Africa : 65 
-social change : 66 
-history : 67 
-collaboration : 68 
-environment : 70 
-health care : 71 
-psychology : 74 
-children : 78 
-invention : 80 
-cities : 85 
-brain : 88 
-storytelling : 89 
-medicine : 92 
-economics : 95 
-biology : 98 
-music : 104 
-health : 108 
-art : 111 
-creativity : 111 
-politics : 135 
-education : 143 
-arts : 181 
-business : 256 
-entertainment : 267 
-TEDx : 279 
-design : 315 
-global issues : 376 
-science : 395 
-culture : 422 
-technology : 524 
-TED Conference : 660 
+poverty : 43 
+sustainability : 43 
+physics : 45 
+philosophy : 46 
+live music : 47 
+future : 48 
+media : 48 
+green : 48 
+oceans : 49 
+exploration : 49 
+evolution : 50 
+film : 50 
+life : 52 
+happiness : 53 
+innovation : 54 
+computers : 56 
+communication : 57 
+women : 58 
+architecture : 59 
+activism : 68 
+photography : 69 
+Africa : 69 
+performance : 69 
+animals : 70 
+collaboration : 70 
+humor : 70 
+environment : 74 
+history : 74 
+health care : 75 
+social change : 76 
+war : 77 
+psychology : 81 
+children : 83 
+TED Fellows : 83 
+invention : 83 
+storytelling : 95 
+cities : 97 
+brain : 99 
+medicine : 101 
+economics : 103 
+biology : 108 
+music : 113 
+art : 121 
+creativity : 126 
+health : 127 
+politics : 147 
+education : 153 
+arts : 184 
+entertainment : 273 
+business : 282 
+TEDx : 306 
+design : 327 
+global issues : 409 
+science : 419 
+culture : 445 
+technology : 562 
+TED Conference : 740 

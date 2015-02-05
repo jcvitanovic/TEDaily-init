@@ -121,7 +121,7 @@
 138 TED Conference, arts, collaboration, culture, entertainment, performance
 139 TED Conference, design, technology
 140 TED Conference, economics, global issues, health
-141 TED Conference, technology
+141 TED Conference, adventure, technology
 142 TED Conference, design, health, medicine, technology
 143 TED Conference, economics, global issues, health, science
 144 TED Conference, design, entertainment, global issues, technology
@@ -232,7 +232,7 @@
 260 TED Conference, entertainment, music, physics
 261 TED Conference, animals, design, technology
 263 environment, food, sustainability
-264 TED Conference, animals, education, science
+264 TED Conference, adventure, animals, education, science
 265 music
 266 TED Conference, business, computers, creativity, design
 267 TED Conference, art, arts, design, entertainment, humor, philosophy
@@ -409,7 +409,7 @@
 499 TED Conference, biology, global issues, health
 500 TED Conference, arts, culture, entertainment, storytelling
 501 TED Conference, business, creativity, culture, design, media
-502 TED Conference, design, entertainment, invention, technology
+502 TED Conference, adventure, design, entertainment, invention, technology
 503 TED Conference, creativity, design
 504 TED Conference, design, global issues, politics, technology
 506 TED Conference, architecture, children, design, entertainment, film, storytelling
@@ -421,7 +421,7 @@
 515 TED Conference, biology, children, evolution, science, technology
 516 TED Conference, art, science, technology
 517 life
-518 TED Conference, entertainment, environment
+518 TED Conference, adventure, entertainment, environment
 519 TED Conference, art, design, science
 520 TED Conference, business, design, technology
 521 TED Conference, cities, politics
@@ -462,7 +462,7 @@
 570 TED Conference, culture, happiness, psychology
 571 TED Conference, animals, biology, design, technology
 572 TED Conference, business, humor, life, psychology
-573 TEDx, environment
+573 TEDx, adventure, environment
 575 communication, culture, global issues, politics, social change, technology
 578 TED Conference, activism
 580 TED Conference, design, medicine, science, technology
@@ -476,7 +476,7 @@
 589 TED Conference, architecture, cities, creativity, design, technology
 590 TED Conference, children, creativity, design, film
 591 TED Conference, brain, creativity, design, technology
-592 TED Conference, storytelling
+592 TED Conference, adventure, storytelling
 594 TED Conference, biology, health, medicine, science, technology
 598 environment, global issues, sustainability
 599 TED Conference, art, arts, cities, design
@@ -502,10 +502,10 @@
 626 design, science
 627 entertainment, film, technology
 628 global issues, photography, science, technology
-629 science
+629 adventure, science
 630 brain, science, technology
 631 TED Conference, culture, history, music, performance
-633 economics, global issues
+633 adventure, economics, global issues
 634 architecture, cities, creativity, design, environment
 635 philosophy, science
 637 TED Conference, biology, brain, medicine, psychology
@@ -513,13 +513,13 @@
 640 culture, technology
 641 politics, technology
 642 creativity, invention, poverty
-643 art, arts, culture, photography
+643 adventure, art, arts, culture, photography
 644 business, economics, global issues, innovation, invention, poverty, women
 645 economics, global issues, history, politics
 646 art, business, design, history
 647 global issues, politics
 648 life, science, technology
-649 art, creativity, design, happiness, innovation
+649 adventure, art, creativity, design, happiness, innovation
 650 cities, culture, food, global issues
 651 TEDx, business, communication, culture
 652 culture, storytelling
@@ -581,7 +581,7 @@
 720 business, computers, creativity, design, innovation, life, technology
 721 education, philosophy, politics
 722 business, creativity, innovation, poverty
-723 technology
+723 adventure, technology
 724 biology, brain, cities, evolution, science
 726 art, photography, science
 727 TEDx, biology, culture, food, health, life, science
@@ -627,15 +627,15 @@
 777 TED Conference, art, arts, culture, design, entertainment
 779 TED Conference, brain, culture, economics, happiness, philosophy, psychology, science
 780 business, culture, entertainment
-783 TED Conference, technology
+783 TED Conference, data, technology
 784 physics, science
-785 TED Conference, entertainment, film, storytelling, technology
+785 TED Conference, adventure, entertainment, film, storytelling, technology
 786 TED Conference, art, arts, collaboration, entertainment
 787 business, happiness, life, psychology
 788 TED Conference, computers
 789 TED Conference, cities, culture, design
 790 TED Conference, biology, environment, food, health
-791 biology, medicine, science
+791 adventure, biology, medicine, science
 792 entertainment, medicine, science
 795 business
 796 TED Conference, biology, science
@@ -674,7 +674,7 @@
 840 biology, evolution, life
 842 culture, social change, women
 843 TED Conference, biology, computers, physics, science
-844 entertainment, global issues
+844 adventure, entertainment, global issues
 845 TED Conference, design, history, technology
 846 TED Conference, entertainment
 847 TED Conference, cities, economics, poverty
@@ -727,7 +727,7 @@
 909 TED Conference
 910 TEDx, food, global issues, health, social change
 911 TED Conference, environment, social change
-912 culture, global issues, poverty
+912 culture, data, global issues, poverty
 914 TEDx, environment
 915 business, collaboration, design, technology
 916 communication, global issues, technology
@@ -741,7 +741,7 @@
 924 business, culture, economics, psychology, social change
 926 science, technology
 927 brain, business, design, economics, psychology, science
-928 activism, global issues, science
+928 activism, adventure, global issues, science
 929 business, environment, sustainability
 930 economics, education, poverty, women
 931 culture
@@ -749,13 +749,13 @@
 934 entertainment, politics
 935 entertainment, politics
 936 TEDx, business, entertainment, psychology
-937 computers, design
+937 computers, data, design
 938 science
 939 animals, arts, entertainment, humor, science
 940 TEDx, environment, sustainability
 941 business, physics
 943 brain, economics, evolution, psychology, science
-944 culture, economics, global issues, happiness
+944 culture, data, economics, global issues, happiness
 945 cities, environment, global issues
 946 brain, culture, happiness
 947 storytelling
@@ -783,7 +783,7 @@
 971 environment, technology
 972 economics, poverty, sustainability
 973 science, technology
-974 TEDx, health
+974 TEDx, data, health
 975 TED Conference, medicine, storytelling
 976 biology, collaboration, science
 977 TEDx, business, global issues
@@ -851,7 +851,7 @@
 1054 activism, business, culture, economics, science, social change
 1055 arts, medicine, music, science, technology
 1056 TEDx, business, communication, global issues, poverty, science
-1057 TEDx, health, medicine, science, technology
+1057 TEDx, data, health, medicine, science, technology
 1058 entertainment, science, technology
 1059 business, culture, economics, global issues
 1060 business, design, health, medicine, science, technology
@@ -875,7 +875,6 @@
 1079 business, culture, economics
 1080 arts, culture, design
 1081 storytelling
-1082 
 1083 arts, entertainment
 1084 TED Conference, global issues, media, politics, technology
 1085 TED Conference, activism, arts, photography
@@ -892,7 +891,7 @@
 1096 TED Conference, culture
 1098 TEDx, architecture, design
 1100 TED Conference, entertainment, performance, storytelling
-1101 culture, economics, women
+1101 culture, data, economics, women
 1102 TED Conference, animals, culture, science
 1103 TEDx, biology, philosophy, science
 1104 TED Conference, design, science, technology
@@ -941,7 +940,7 @@
 1149 TED Conference, biology, photography, science
 1150 TED Conference, culture, entertainment
 1151 entertainment
-1152 TED Conference, arts, collaboration, design, technology
+1152 TED Conference, arts, collaboration, data, design, technology
 1153 TED Conference, global issues, health, science
 1154 arts, film, global issues, photography, politics, women
 1155 TEDx, culture
@@ -953,7 +952,7 @@
 1161 creativity, culture, design
 1162 TEDx, culture, philosophy, technology
 1163 TED Conference, science
-1164 TED Conference, art, arts, cities, culture, design, technology
+1164 TED Conference, art, arts, cities, culture, data, design, technology
 1165 TED Conference, business, cities, culture, design, global issues, politics
 1166 TEDx, culture, politics
 1167 communication, culture, storytelling
@@ -970,7 +969,7 @@
 1178 brain, entertainment, performance
 1179 TEDx, global issues, social change
 1180 TED Conference, computers, history, science
-1181 TEDx, collaboration, culture, science, technology
+1181 TEDx, collaboration, culture, data, science, technology
 1182 TED Conference, activism, arts, cities, culture
 1183 TED Conference, culture
 1184 TED Conference, arts, creativity, design, entertainment, food, photography, technology
@@ -1016,14 +1015,14 @@
 1224 culture, entertainment
 1225 business, global issues
 1226 business, culture, economics, global issues
-1227 TEDx, design, technology
+1227 TEDx, data, design, technology
 1228 business, global issues
 1229 animals, biology, science
 1230 TED Conference, business, creativity, culture
 1231 communication, culture, health, medicine, science
 1232 creativity, culture, design, education
 1233 entertainment, film, global issues, politics
-1234 medicine, science
+1234 data, medicine, science
 1235 arts, creativity, entertainment
 1236 economics, global issues, media, politics
 1237 TEDx, biology, evolution, life, science
@@ -1041,13 +1040,13 @@
 1249 environment, science, technology
 1250 computers, global issues, politics, technology
 1251 design, invention, medicine, science, technology
-1252 art, arts
-1253 culture, global issues, social change
+1252 art, arts, data
+1253 culture, data, global issues, social change
 1254 brain, culture, science
 1255 invention
 1256 TEDx, business, science
 1257 TED Conference, art, arts, creativity, storytelling
-1258 art, arts
+1258 art, arts, data
 1259 brain, culture, medicine, science
 1260 design, invention
 1261 biology, brain, evolution, science
@@ -1060,7 +1059,7 @@
 1268 TEDx, business, technology
 1269 TEDx, culture, entertainment
 1270 design, science
-1271 design, technology
+1271 adventure, design, technology
 1272 TEDx, education, entertainment, technology
 1274 medicine, science, technology
 1276 entertainment, science
@@ -1113,7 +1112,7 @@
 1325 TEDx, entertainment, global issues
 1326 design, technology
 1327 culture, philosophy
-1328 politics, technology
+1328 data, politics, technology
 1329 business, creativity, media, politics, technology
 1330 business, culture
 1331 TEDx, arts, entertainment, music, science
@@ -1157,7 +1156,7 @@
 1370 TEDx, computers, technology
 1371 entertainment
 1372 biology, collaboration, photography
-1373 science
+1373 data, science
 1374 TED Conference, cities, science, sustainability, technology
 1375 TED Conference, cities, invention, sustainability, technology
 1376 TED Conference, technology
@@ -1183,7 +1182,7 @@
 1397 TED Conference, science, technology
 1398 TED Conference, culture, entertainment, humor
 1399 TEDx, global issues, health
-1400 TEDx, design, media
+1400 TEDx, data, design, media
 1401 TED Conference, invention, technology
 1402 TED Conference, innovation, science, technology
 1403 TED Conference, global issues, social change, women
@@ -1191,7 +1190,6 @@
 1405 TED Conference, art, design, entertainment, technology
 1406 TEDx, global issues, poverty, technology
 1407 TEDx, global issues, politics, technology
-1408 
 1409 TED Conference, communication, culture, technology
 1410 TED Conference, creativity, design, humor
 1411 TED Conference, education, technology
@@ -1223,7 +1221,7 @@
 1438 TEDx, entertainment
 1439 TEDx, global issues, photography
 1440 TED Conference, culture, entertainment, history, music
-1441 philosophy
+1441 data, philosophy
 1442 TED Conference, animals, film, science
 1443 TED Conference, brain, culture, science
 1444 TED Conference, technology
@@ -1237,14 +1235,14 @@
 1452 TEDx, design, global issues
 1453 TEDx, biology, science
 1454 TED Conference, science
-1455 TEDx, global issues
+1455 TEDx, data, global issues
 1456 TED Conference, arts, entertainment, storytelling
 1457 TEDx, global issues, health
 1458 TED Conference, arts, entertainment, humor, music, performance
 1459 TEDx, art, science
-1460 TEDx, global issues, sustainability
+1460 TEDx, data, global issues, sustainability
 1461 TEDx, art, arts, history
-1462 TEDx, economics, women
+1462 TEDx, data, economics, women
 1463 TEDx, communication, culture, design, life, philosophy
 1464 TED Conference, culture, entertainment, technology
 1465 TEDx, life, science, technology
@@ -1294,7 +1292,7 @@
 1515 design, science, technology
 1516 TEDx, global issues, technology
 1517 TEDx, computers, history, technology
-1518 technology
+1518 data, technology
 1519 architecture, arts, design
 1520 innovation, invention, photography, technology
 1521 arts, entertainment, history, storytelling
@@ -1326,9 +1324,9 @@
 1553 arts, cities
 1554 culture, economics, global issues, women
 1555 business, cities, economics, global issues
-1556 computers, technology
+1556 computers, data, technology
 1557 global issues, health
-1558 global issues, politics
+1558 data, global issues, politics
 1559 TEDx, architecture, cities, design, technology
 1560 TEDx, global issues, science
 1561 business, science, technology
@@ -1378,7 +1376,7 @@
 1607 TEDx, brain, happiness, psychology
 1608 TEDx, global issues
 1609 art, design, innovation, invention
-1610 animals, biology, science
+1610 adventure, animals, biology, science
 1611 business, innovation, invention
 1612 TEDx, communication, technology
 1613 TED Conference, art, arts, creativity, entertainment, photography
@@ -1387,7 +1385,6 @@
 1617 TEDx, business, global issues
 1618 TEDx, brain, education
 1619 children, entertainment, performance
-1620 
 1621 TEDx, health, storytelling
 1622 culture, design, humor, technology
 1623 TEDx, culture, global issues, politics
@@ -1433,10 +1430,10 @@
 1664 TEDx, art, cities, global issues, politics
 1665 TEDx, invention, science, technology
 1666 TEDx, education, global issues, women
-1667 education, global issues
-1668 TEDx, business, economics, global issues
+1667 data, education, global issues
+1668 TEDx, business, data, economics, global issues
 1669 culture
-1670 business, economics
+1670 business, data, economics
 1671 brain, science, technology
 1672 TEDx, activism, education, women
 1673 TEDx, economics
@@ -1505,7 +1502,7 @@
 1739 culture, education, global issues
 1740 education
 1741 TED Conference, culture
-1742 culture, technology
+1742 culture, data, technology
 1743 creativity, invention, technology
 1744 TED Conference, culture, life
 1745 TED Conference, culture, design, technology
@@ -1540,7 +1537,7 @@
 1776 arts, design, humor
 1777 TEDx, animals, science
 1778 business, global issues, politics
-1779 TEDx, global issues, health, technology
+1779 TEDx, data, global issues, health, technology
 1780 arts
 1781 TED Conference, computers, design, technology
 1782 TED Conference, children, entertainment, music, performance
@@ -1563,7 +1560,7 @@
 1799 health, medicine
 1800 TED Conference, health
 1801 TED Conference, creativity, entertainment, film
-1802 TEDx, children, health, medicine, technology
+1802 TEDx, children, data, health, medicine, technology
 1803 TEDx, culture, education, politics
 1804 TED Conference, creativity, entertainment, music, technology
 1805 TEDx, culture, philosophy
@@ -1584,7 +1581,7 @@
 1820 TED Conference, technology
 1821 entertainment
 1822 food, science
-1823 TED Conference, technology
+1823 TED Conference, data, technology
 1824 food, global issues, science, sustainability
 1825 cities, global issues, politics
 1826 psychology, science
@@ -1593,8 +1590,7 @@
 1829 TEDx, global issues, philosophy, politics
 1830 TEDx
 1831 entertainment, history, storytelling
-1832 
-1833 culture, technology
+1833 culture, data, technology
 1834 arts, photography, science
 1835 TED Conference, technology
 1836 business, politics, social change
@@ -1617,7 +1613,7 @@
 1854 architecture, design
 1855 business, economics, innovation, technology
 1856 communication, culture, entertainment, storytelling, technology
-1857 
+1857 adventure
 1858 business, culture
 1859 business, global issues, innovation
 1860 science, technology
@@ -1639,11 +1635,10 @@
 1881 business, economics, social change
 1882 TEDx, biology
 1883 entertainment, media, politics
-1885 TED Conference, technology
+1885 TED Conference, adventure, technology
 1886 cities, design, sustainability
 1887 culture
 1888 architecture, sustainability
-1889 
 1890 culture
 1891 TEDx, culture, history, philosophy
 1892 business, cities, culture
@@ -1666,3 +1661,243 @@
 1910 health, women
 1911 business
 1912 communication, entertainment
+1913 TED Conference, education, technology
+1914 data
+1915 activism
+1916 TEDx, animals
+1917 creativity
+1918 women
+1919 technology
+1920 architecture, cities, design
+1921 art, creativity
+1922 TEDx, physics, science
+1923 music, performance
+1924 TEDx, media, politics
+1925 TEDx, culture, philosophy
+1926 TED Conference, design, sustainability
+1927 business, sustainability
+1928 science, technology
+1929 economics, global issues, poverty
+1930 business
+1931 TED Conference, culture
+1932 TEDx, culture, happiness
+1933 cities
+1934 TED Conference, technology
+1935 brain, health, science
+1936 physics, science
+1937 business, global issues
+1938 business, economics
+1939 TED Conference, brain, creativity, science
+1940 business
+1941 global issues, health, physics
+1942 art
+1943 women
+1944 innovation, technology
+1945 animals, biology
+1946 TED Conference, brain, culture, global issues, science
+1947 TEDx, medicine
+1948 TED Conference, brain, culture, philosophy
+1949 TED Conference, business, global issues
+1950 TED Conference
+1951 TED Conference, adventure, culture, life
+1952 TED Conference, culture, global issues
+1953 business
+1954 education, global issues, women
+1955 TED Conference, biology, science
+1956 TED Conference, architecture, design
+1957 TEDx, data, technology
+1958 TED Conference, technology
+1959 TED Conference, technology
+1960 TED Conference, politics
+1961 TED Conference, activism
+1962 music
+1963 TED Conference, physics
+1964 TED Conference, activism, business
+1965 education, science
+1966 TED Conference, architecture, cities
+1969 TED Conference, film, photography
+1971 TED Conference, global issues, technology
+1972 TED Conference, politics
+1973 TED Conference, philosophy, psychology
+1974 culture
+1976 TED Conference, technology
+1977 TED Conference, design
+1978 TED Conference, art
+1979 TED Conference, science
+1981 TEDx, design
+1982 TED Conference, technology
+1983 TED Conference, creativity
+1984 arts, design
+1985 TED Conference, health, science
+1986 TED Conference, innovation
+1987 TED Conference, health, invention
+1988 TED Conference, environment, science
+1989 TED Conference, humor, performance
+1990 TED Conference, business, communication
+1991 TED Conference, entertainment, technology
+1992 TED Conference, collaboration
+1993 TED Conference, art, humor, physics, science
+1994 TED Conference, music, performance
+1995 TED Conference, science
+1996 TEDx, business
+1997 culture
+1998 TED Conference, business
+1999 film, global issues
+2000 entertainment, humor, storytelling
+2001 TED Conference, biology, evolution
+2002 TEDx, animals, biology
+2003 TEDx, sustainability
+2004 TED Conference, biology, data, health
+2005 TED Conference, culture
+2006 TED Conference, environment
+2007 TED Conference, technology
+2009 TED Conference, art, global issues, photography
+2010 TED Conference, creativity, music, performance
+2011 global issues, philosophy
+2012 TED Conference, culture, psychology
+2013 culture
+2014 TED Conference, animals, design, science, technology
+2015 TED Conference, brain, evolution, technology
+2016 TED Conference, activism, film
+2017 TEDx, activism, humor
+2018 TED Conference, activism, animals, environment, politics
+2019 TED Conference, activism
+2020 creativity, science
+2021 entertainment, history, humor
+2022 TEDx, culture
+2023 philosophy
+2024 TED Conference
+2025 happiness
+2026 TED Conference, technology
+2027 TED Conference, entertainment
+2028 culture
+2029 TED Conference, culture
+2030 TEDx, business, communication, technology
+2031 TED Conference, animals, creativity
+2032 history, science
+2033 TEDx, music, technology
+2034 culture
+2035 TEDx, technology
+2036 global issues
+2037 psychology
+2038 TEDx, arts, children, history, politics, storytelling
+2039 TED Conference, business, culture, design, technology
+2041 TED Conference, creativity, innovation, science, technology
+2042 history, politics, storytelling
+2043 TED Conference, computers, innovation, technology
+2044 culture, social change
+2045 TED Conference, brain, philosophy
+2046 invention, medicine
+2047 TED Conference, art
+2048 art, biology, science
+2049 TED Conference, entertainment, humor, performance
+2050 TED Conference, business, computers, education, technology
+2052 TED Conference, biology, science, technology
+2053 history
+2054 TEDx, media, music
+2055 business, economics, social change
+2056 TEDx, data, health
+2057 TEDx, culture, global issues, social change
+2059 social change
+2060 politics
+2061 TED Conference, global issues
+2062 children, education
+2063 TED Conference, photography
+2064 TED Conference, activism, architecture, cities, sustainability
+2065 global issues
+2066 animals, health, history, psychology, science
+2067 TED Conference
+2068 TEDx, activism, media, women
+2069 TED Conference, technology
+2070 TED Conference, storytelling
+2071 humor
+2072 TED Conference, philosophy
+2073 communication, media, social change, technology
+2074 TEDx, children, culture, history, storytelling
+2075 TED Conference
+2076 health
+2077 TED Conference, brain
+2078 architecture, cities
+2088 TEDx
+2089 TED Conference, art, humor, photography
+2090 global issues, health
+2091 children, creativity
+2092 TED Conference, architecture, cities, design
+2093 business, economics, global issues
+2094 data, technology
+2095 TED Conference, global issues, photography, women
+2096 health, medicine
+2097 global issues, health
+2098 global issues
+2099 TEDx, business, women
+2100 music
+2101 economics, global issues
+2102 life, women
+2103 brain, science
+2104 politics, technology
+2105 business, economics
+2107 cities, politics, technology
+2108 children, global issues, health
+2109 health, technology
+2110 education, global issues, poverty
+2111 health, medicine, photography
+2112 data
+2113 education
+2114 global issues
+2115 humor, science, technology
+2116 adventure
+2117 animals, photography
+2118 global issues, women
+2119 photography, technology
+2121 activism, politics, technology
+2122 business, communication, creativity
+2126 creativity
+2127 biology
+2128 architecture, cities, design
+2129 art, cities
+2130 global issues
+2131 film, music
+2132 economics, global issues, health, medicine
+2133 business, medicine
+2134 economics, global issues
+2135 business, communication
+2136 activism
+2137 TEDx, health
+2138 invention, medicine, science
+2139 cities, global issues
+2140 TEDx, health, psychology
+2141 medicine
+2142 activism, film, global issues, social change
+2143 adventure
+2144 business, global issues
+2145 animals, biology, evolution, medicine
+2146 photography
+2147 music, performance
+2148 TEDx, arts, entertainment, film, storytelling
+2149 data
+2150 cities, culture
+2151 social change
+2154 activism, media, politics
+2155 computers, health, technology
+2156 brain, business, education, psychology
+2157 art, social change
+2158 communication, creativity
+2159 film, photography, technology
+2160 biology
+2161 activism, culture
+2162 cities, design, happiness, technology
+2163 creativity, education
+2164 global issues
+2165 environment
+2166 politics, science
+2167 business, innovation
+2168 communication
+2169 creativity, film
+2170 technology
+2171 business, social change
+2172 brain, communication
+2175 culture, global issues, women
+2176 activism, social change, technology
+2177 health
+2178 brain, education, psychology
+2179 business, collaboration, creativity, design
