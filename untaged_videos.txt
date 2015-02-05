@@ -1,2 +1,11 @@
 10
-[('1082', 'cancer,genetics,medical research\n'), ('1408', 'TED-Ed,oceans\n'), ('1620', 'cars,transportation\n'), ('1832', 'death,world cultures\n'), ('1889', 'exploration\n'), ('2008', 'peace,war\n'), ('2106', 'Internet,government,intelligence,journalism,privacy\n'), ('2120', 'cancer,health care,identity\n'), ('2173', 'development,sanitation,water\n'), ('2174', 'government,peace,war\n')]
+('1082', 'cancer,genetics,medical research\n')
+('1408', 'TED-Ed,oceans\n')
+('1620', 'cars,transportation\n')
+('1832', 'death,world cultures\n')
+('1889', 'exploration\n')
+('2008', 'peace,war\n')
+('2106', 'Internet,government,intelligence,journalism,privacy\n')
+('2120', 'cancer,health care,identity\n')
+('2173', 'development,sanitation,water\n')
+('2174', 'government,peace,war\n')
