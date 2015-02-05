@@ -1,0 +1,1668 @@
+1|TED Conference,alternative energy,cars,climate change,culture,environment,global issues,politics,science,sustainability,technology
+2|MacArthur grant,TED Conference,alternative energy,design,engineering,global issues,industrial design,invention,simplicity
+3|business,corruption,culture,development,economics,entrepreneur,global issues,investment,military
+4|NASA,TED Conference,aircraft,business,design,engineering,entrepreneur,flight,industrial design,invention,rocket science
+5|TED Conference,arts,business,cars,design,industrial design,invention,technology,transportation
+6|DNA,biosphere,biotech,entrepreneur,genetics,invention,oceans,science,technology
+7|TED Conference,computers,entertainment,interface design,media,music,performance,simplicity,software,technology
+8|New York,TED Conference,architecture,arts,cities,collaboration,culture,death,design,disaster relief,interview,memory,urban planning
+9|TED Conference,business,cars,education,industrial design,innovation,invention,robots,science,social change,sustainability,technology,third world,transportation
+10|TED Conference,culture,disease,food,global issues,health,health care,obesity,science
+11|Africa,TED Conference,animals,culture,environment,global issues,nature,primates,science
+12|TED Conference,cancer,disease,health,science,technology,wunderkind
+13|TED Conference,architecture,arts,business,creativity,culture,design,interview,invention
+14|TED Conference,art,arts,entertainment,invention,music,performance,software,technology
+16|TED Conference,cognitive science,culture,evolution,gender,love,psychology,relationships,science
+18|DNA,TED Conference,animals,biology,biomimicry,design,environment,evolution,fish,science,technology
+19|TED Conference,choice,culture,evolution,future,history,philosophy,science,technology
+20|TED Conference,business,choice,consumerism,culture,economics,food,marketing,media,storytelling
+21|TED Conference,business,communication,community,culture,design,entertainment,software,storytelling
+22|TED Conference,culture,entertainment,faith,illusion,religion,science
+23|TED Conference,activism,arts,collaboration,culture,film,global issues,music,social change,state-building,storytelling
+24|TED Conference,arts,dance,entertainment,nature,performance,science
+25|business,collaboration,culture,education,global issues,library,open-source,technology
+26|arts,culture,entertainment,love,performance,philosophy,poetry
+27|DNA,TED Conference,arts,biology,creativity,design,industrial design,invention,nature,product design,transportation
+28|TED Conference,business,choice,culture,marketing,storytelling
+29|TED Conference,business,cities,culture,economics,race
+30|business,cars,culture,economics,parenting,statistics,transportation
+31|TED Conference,architecture,arts,cities,culture,design,invention
+32|Brazil,TED Conference,art,creativity,design,illusion
+33|TED Conference,culture,global issues,military,peace,technology,terrorism,war
+34|TED Conference,activism,arts,culture,design,education,film,global issues,photography,social change,storytelling
+35|DNA,TED Conference,culture,genetics,history,invention,science,storytelling,technology
+36|business,cities,culture,development,entrepreneur,future,global issues,politics,social change,third world
+37|business,collaboration,culture,invention,media,open-source,technology,wikipedia
+38|TED Conference,biotech,business,culture,future,invention,robots,science,technology
+39|aging,biotech,disease,engineering,future,health care,science,technology
+40|TED Conference,animals,art,arts,design,evolution,fish,nature,photography,storytelling
+41|One Laptop Per Child,TED Conference,children,design,education,entrepreneur,global issues,philanthropy,social change,technology
+42|astronomy,climate change,complexity,cosmos,leadership,science,social change,technology,time,universe
+43|arts,business,design,industrial design,product design
+44|biotech,culture,future,global issues,happiness,philosophy,technology
+45|TED Conference,arts,entertainment,music,performance,violin,wunderkind
+46|TED Conference,arts,creativity,entertainment,music,performance,piano,wunderkind
+47|climate change,cosmos,culture,environment,global issues,physics,science,technology,universe
+48|MacArthur grant,TED Conference,arts,collaboration,design,innovation,invention,materials,open-source,product design,technology
+49|TED Conference,architecture,arts,collaboration,culture,design,library
+50|TED Conference,art,arts,design,happiness,typography
+51|MacArthur grant,TED Conference,business,economics,energy,environment,green,science,technology
+53|MacArthur grant,TED Conference,activism,business,cities,environment,green,inequality,politics,pollution
+54|TED Conference,activism,architecture,collaboration,culture,design,disaster relief,global issues,invention,open-source,philanthropy
+55|TED Conference,TED Prize,arts,culture,entertainment,film,global issues,peace,social change,storytelling
+56|TED Conference,TED Prize,art,arts,cities,culture,design,environment,photography,pollution,social change
+57|TED Conference,TED Prize,business,disease,health care,invention,medicine,science,technology
+58|Google,TED Conference,TED Prize,collaboration,disease,epidemiology,global issues,health,science,technology
+59|AIDS,Africa,activism,entertainment,global issues,leadership,philanthropy,politics,poverty,social change
+60|MacArthur grant,TED Conference,United States,arts,culture,entertainment,history,interview,performance,performance art,race,sports,storytelling,theater
+61|cities,culture,design,epidemiology,health,history,map,science,urban planning
+62|AIDS,Africa,TED Conference,business,choice,climate change,culture,disaster relief,economics,environment,future
+63|business,collaboration,culture,economics,innovation,invention,media,open-source,product design
+64|TED Conference,arts,culture,entertainment,gender,global issues,happiness,performance,storytelling,theater
+65|TED Conference,demo,design,interface design,technology
+66|TED Conference,children,creativity,culture,dance,education,parenting
+67|culture,genetics,science,statistics,technology
+68|TED Conference,cooperation,culture,global issues,war
+69|TED Conference,anthropology,culture,environment,film,global issues,language,photography
+70|TED Conference,business,culture,education,entertainment,happiness,psychology,success,work
+71|Christianity,God,TED Conference,culture,happiness,leadership,motivation,philanthropy,religion
+72|TED Conference,business,culture,economics,entertainment,marketing,technology
+73|choice,culture,happiness,health,parenting,personal growth,potential,psychology
+74|alternative energy,business,cities,collaboration,culture,design,environment,global issues,invention,sustainability
+75|business,culture,global issues,investment,media,philanthropy
+76|TED Conference,animals,apes,biology,culture,education,evolution,genetics,intelligence,language
+77|TED Conference,biology,biomechanics,oceans,online video,science,technology
+78|TED Conference,arts,brain,cognitive science,culture,design,illusion,psychology
+79|alternative energy,business,communication,culture,development,global issues,invention,investment,microfinance,poverty,technology,telecom,third world,transportation
+80|DNA,TED Conference,TEDBooks,biotech,business,culture,genetics,invention,science,technology
+81|arts,entertainment,live music,music,poetry,singer
+82|TED Conference,culture,demo,global issues,health care,invention,peace,prosthetics,science,technology,war
+83|TED Conference,TED Prize,ants,biodiversity,biology,biosphere,global issues,insects,nature,science,technology
+84|TED Conference,activism,arts,culture,global issues,media,photography,poverty,social change,storytelling
+85|Africa,TED Conference,TED Prize,business,culture,economics,global issues,health care,technology
+86|Christianity,God,TED Conference,arts,atheism,comedy,culture,performance,religion,storytelling
+87|TED Conference,arts,collaboration,comedy,community,culture,dance,demo,entertainment,software,web
+89|TED Conference,climate change,culture,exploration,global issues,personal growth,potential,sports,technology
+90|TED Conference,computers,culture,engineering,invention,materials,science,social change,technology,third world
+91|Africa,business,culture,development,entrepreneur,global issues,investment,microfinance,philanthropy,poverty,social change,women
+92|Africa,Asia,Google,TED Conference,demo,development,economics,global issues,health,statistics,visualizations
+93|business,choice,culture,decision-making,economics,happiness,personal growth,potential,psychology
+94|God,TED Conference,atheism,brain,cognitive science,consciousness,evolution,philosophy,religion
+96|TED Conference,business,culture,entertainment,goal-setting,motivation,politics,potential,psychology
+97|TED Conference,brain,choice,culture,evolution,happiness,psychology,science
+98|astronomy,biology,cognitive science,cosmos,evolution,physics,psychology,science
+99|TED Conference,climate change,environment,guitar,music,performance,vocals
+101|TED Conference,arts,cello,entertainment,music,performance,vocals
+102|TED Conference,brain,consciousness,culture,entertainment,illusion,self,visualizations
+103|TED Conference,arts,creativity,entertainment,live music,music,performance
+104|TED Conference,architecture,business,china,cities,culture,design,environment,global issues,sustainability,technology
+105|TED Conference,United States,business,entrepreneur,history,innovation,invention,technology,web
+108|TED Conference,arts,entertainment,memory,performance,poetry,spoken word,storytelling
+109|TED Conference,arts,composing,entertainment,guitar,music,performance art,piano,potential,vocals
+110|TED Conference,arts,composing,entertainment,guitar,memory,music,performance,piano
+112|God,TED Conference,culture,disaster relief,global issues,natural disaster,philosophy,religion
+113|God,TED Conference,atheism,culture,politics,religion,science
+114|TED Conference,arts,comedy,culture,performance
+115|TED Conference,arts,entertainment,live music,music,performance
+116|TED Conference,culture,faith,meme,philosophy,religion
+117|TED Conference,entertainment,history,music,performance,violin
+118|Google,TED Conference,business,collaboration,culture,design,technology,web
+119|TED Conference,arts,culture,entertainment,live music,music,performance,poetry,race,sports
+121|TED Conference,alternative energy,architecture,cars,cities,consumerism,culture,design,energy,transportation
+122|TED Conference,arts,collaboration,creativity,culture,design,museums,philanthropy,water
+123|TED Conference,business,cities,culture,future,global issues,poverty,technology,urban planning
+125|AI,TED Conference,brain,cognitive science,computers,intelligence,memory,science,technology
+126|TED Conference,animals,biodiversity,climate change,environment,fish,global issues,oceans,science,technology
+127|TED Conference,business,corruption,global issues,investment,women,women in business
+128|TED Conference,climate change,environment,global issues,green,investment,sustainability,technology
+129|TED Conference,collaboration,demo,microsoft,photography,software,technology,visualizations
+130|Buddhism,God,culture,global issues,happiness,peace,religion
+131|TED Conference,demo,interface design,software,technology
+138|TED Conference,arts,cello,collaboration,culture,entertainment,live music,performance,violin
+139|TED Conference,design,map,microsoft,technology
+140|Africa,Asia,Google,TED Conference,development,economics,global issues,health,inequality,statistics,visualizations
+141|Moon,NASA,Planets,TED Conference,adventure,energy,exploration,mining,space,technology,universe
+142|TED Conference,cancer,design,health,health care,medicine,technology
+143|AIDS,Africa,TED Conference,economics,global issues,health,science,statistics
+144|TED Conference,design,entertainment,global issues,software,technology
+145|TED Conference,ants,biology,collaboration,design,insects,science
+146|TED Conference,demo,design,entertainment,gaming,technology
+147|TED Conference,design,entertainment,film,health,medicine,science,technology,visualizations
+148|TED Conference,art,arts,entertainment,poetry,spoken word
+149|TED Conference,culture,health care,marketing,medicine
+151|Africa,business,development,economics,entrepreneur,global issues,philanthropy,politics
+152|development,economics,entrepreneur,global issues,health care,investment,philanthropy,women,women in business
+153|Africa,alternative energy,design,energy,global issues,interview,library,technology
+154|Africa,business,entrepreneur,global issues,investment
+155|Africa,culture,entertainment,global issues,literature,poetry,politics,storytelling
+156|Africa,culture,education,global issues,leadership,politics,social change
+157|business,development,global issues,investment,medicine,philanthropy,poverty,women,women in business
+158|Africa,activism,entertainment,live music,music,singer,women
+159|Africa,business,development,global issues,investment,philanthropy,politics,technology
+161|TED Conference,book,culture,education,entertainment,language
+162|TED Conference,animals,art,arts,biomechanics,creativity,demo,design,entertainment,technology
+163|TED Conference,business,culture,global issues,media,sociology,violence,war
+164|culture,language,psychology,science
+165|AI,TED Conference,cognitive science,demo,design,evolution,robots,technology
+167|TED Conference,climate change,future,global issues,humanity,space,technology
+168|Africa,anthropology,exploration,global issues,human origins,humanity,paleontology,science
+169|Africa,entertainment,guitar,live music,music
+170|TED Conference,business,entertainment,film,global issues,philanthropy,social change
+171|TED Conference,entertainment,film,global issues,storytelling,technology,war
+172|TED Conference,art,design,simplicity,technology
+174|architecture,cities,green
+175|children,cities,culture,education,global issues
+176|TED Conference,alternative energy,business,design,drones,energy,flight,invention,technology
+177|climate change,culture,global issues,health,peace
+178|NASA,Planets,TED Conference,design,exploration,science,space,technology,universe,visualizations
+179|TED Conference,arts,culture,dance,entertainment
+181|TED Conference,aircraft,business,entertainment,entrepreneur,global issues,interview,music,space,technology
+182|TED Conference,art,children,culture,design,entertainment,happiness
+183|DNA,MacArthur grant,TED Conference,complexity,computers
+184|TED Conference,brain,consciousness,culture,illness,illusion,science,technology
+185|business,economics,food,global issues,technology,women in business
+186|Africa,arts,entertainment,guitar,live music,music
+187|TED Conference,business,creativity,entertainment,law,technology
+188|TED Conference,arts,culture,entertainment,guitar,music,singer,technology
+189|brain,depression,health care,illness,medicine,mental health,science,suicide,technology
+190|TED Conference,cities,communication,culture,design,global issues,technology,telecom
+191|Buddhism,God,TED Conference,brain,culture,faith,global issues,happiness,peace,photography,religion
+192|business,china,climate change,engineering,global issues,science,technology
+193|TEDBooks,biodiversity,biotech,business,energy,science,technology
+194|String theory,TED Conference,physics,science,storytelling,technology
+195|TED Conference,design,evolution,robots,science,technology
+196|TED Conference,entertainment,humor,music,technology
+197|TED Conference,design,humanity,humor,philosophy,storytelling
+198|Africa,architecture,culture,design,education,math,technology
+199|TED Conference,education,entertainment,magic,math,performance
+200|TED Conference,brain,community,compassion,empathy,psychology
+201|TED Conference,communication,community,parenting,relationships,writing
+202|TED Conference,TEDBooks,children,design,entertainment,parenting,play,sports,technology
+203|TED Conference,comedy,humor
+204|Latin America,TED Conference,entertainment,global issues,love,parenting,storytelling,women,world cultures
+205|TED Conference,entertainment,film,humor,storytelling,technology
+206|TED Conference,animals,evolution,exploration,fish,oceans,science,technology
+207|TED Conference,art,arts,culture,design,museums
+208|TED Conference,arts,culture,education,entertainment,library,literature,race,storytelling
+209|MacArthur grant,TED Conference,activism,arts,children,cities,culture,education,philanthropy
+210|art,arts,culture,entertainment,photography
+211|TED Conference,business,community,culture,global issues,philanthropy,philosophy,technology
+212|TED Conference,business,cars,cities,technology,transportation
+213|Brazil,Latin America,TED Conference,cities,culture,design,green,humor,sustainability,transportation
+214|TED Conference,animals,bees,business,cooperation,culture,evolution,food,garden,global issues,science
+215|MacArthur grant,TED Conference,ancient world,art,arts,book,cities,communication,culture,design,humor
+216|TED Conference,business,collaboration,communication,community,cooperation,culture,global issues,humanity,wikipedia
+217|activism,culture,global issues,spoken word,technology,violence,war,women
+218|TED Conference,live music,music,performance,technology
+219|TED Conference,architecture,cities,collaboration,creativity,design,museums,visualizations
+220|Africa,collaboration,culture,education,global issues,politics
+221|NASA,Planets,TED Conference,future,history,physics,rocket science,science,space,storytelling,technology
+222|TED Conference,collaboration,entertainment,guitar,humor,singer,storytelling
+223|TED Conference,collaboration,entertainment,humor,physics
+224|TED Conference,astronomy,collaboration,demo,education,science,technology,universe
+225|TED Conference,children,design,entertainment,parenting,photography,rocket science,space,technology,toy
+227|TED Conference,alternative energy,creativity,energy,genetics,global issues,invention,science,technology
+228|TED Conference,children,collaboration,computers,design,education,technology
+229|TED Conference,biology,brain,consciousness,global issues,illness,science
+230|TED Conference,demo,design,education,entertainment,future,interface design,media,technology
+231|TED Conference,architecture,collaboration,design,global issues,technology
+232|Africa,TED Conference,TED Prize,education,math,physics,science,technology
+233|TED Conference,TED Prize,activism,children,collaboration,culture,design,education,entertainment,global issues,writing
+234|TED Conference,TED Prize,collaboration,faith,global issues,politics,religion
+235|TED Conference,art,demo,design,entertainment,history,technology
+236|TED Conference,biology,brain,business,demo,medicine,science,technology,visualizations
+237|TED Conference,culture,education,science,technology,web
+239|TED Conference,education,history,math,politics,science,space,technology,war
+241|TED Conference,art,demo,design,entertainment,film,music,online video,visualizations
+242|String theory,TED Conference,evolution,math,physics,science,time,universe
+243|TED Conference,activism,climate change,global issues,politics,science
+245|TED Conference,business,demo,design,education,entertainment,gaming,hack,technology
+246|TED Conference,creativity,demo,design,entertainment,health care,live music,music,technology,writing
+247|Google,business,collaboration,economics,law,social change,technology,wikipedia
+248|Google,TED Conference,business,economics,entertainment,global issues,media,news
+249|Africa,activism,development,global issues,health,health care,heart health,public health,science
+250|TED Conference,arts,culture,entertainment,storytelling,writing
+251|String theory,TED Conference,physics,science,universe
+252|TED Conference,aging,genetics,health,health care,medicine,science
+253|String theory,TED Conference,big bang,education,physics,science,technology
+254|TED Conference,collaboration,entertainment,guitar,humanity,humor,music
+255|Africa,education,global issues,philanthropy,technology
+258|TED Conference,biology,design,food,global issues,pollution,science,technology
+259|TED Conference,bacteria,biology,disease,evolution,global issues,health,illness,medicine,microbiology,science
+260|MacArthur grant,TED Conference,dance,entertainment,math,music,physics,sports
+261|TED Conference,animals,design,hack,intelligence,interface design,technology
+263|environment,food,green,obesity,sustainability
+264|TED Conference,adventure,animals,biodiversity,education,exploration,fish,oceans,science,submarine
+265|Africa,guitar,live music,music,singer
+266|One Laptop Per Child,TED Conference,business,computers,creativity,design,sex,society
+267|TED Conference,art,arts,design,engineering,entertainment,humor,philosophy
+268|activism,design,health,health care,invention,public health,technology
+269|TED Conference,brain,culture,design,evolution,meme,technology
+270|Africa,TED Conference,activism,business,development,economics,global issues,politics,poverty
+271|TED Conference,animals,entertainment,exploration,fish,humor,photography
+272|TED Conference,children,crime,culture,education,evil,global issues,peace,prison,psychology
+273|TED Conference,anthropology,beauty,culture,faith,global issues,photography,religion
+274|business,cognitive science,collaboration,culture,social change,society,technology
+276|TED Conference,culture,global issues,history,language,physics
+278|TED Conference,computers,engineering,history,library,military,science,software,technology
+279|TED Conference,art,arts,beauty,business,culture,photography,plastic,statistics
+280|TED Conference,animals,design,evolution,robots,science,technology,transportation
+282|TED Conference,culture,film,library,personal growth,storytelling
+285|TED Conference,Vaccines,design,food,global issues,invention,medicine,technology
+286|Buddhism,TED Conference,arts,conducting,creativity,culture,entertainment,leadership,live music,music
+287|TED Conference,culture,entertainment,genetics,live music,piano,science,singer
+288|One Laptop Per Child,activism,computers,design,technology
+290|TED Conference,entertainment,live music,music
+292|TED Conference,business,flight,science,space,technology,universe
+294|Africa,TED Conference,culture,entertainment,humanity,humor,literature,poetry,politics,writing
+296|TED Conference,entertainment,humor,love,music,piano,women
+297|art,children,family,global issues,media,photography,storytelling
+298|TED Conference,arts,entertainment,guitar,music,peace,singer,storytelling
+299|Africa,activism,animals,biodiversity,biosphere,trees,war
+300|TED Conference,animals,biomechanics,demo,design,entertainment,gaming,technology
+301|culture,entertainment,humanity,humor,religion,writing
+306|Planets,TED Conference,astronomy,biotech,exploration,extraterrestrial life,physics,science,technology,universe
+307|TED Conference,brain,cognitive science,culture,literature,love,poetry,psychology,relationships,science,technology
+308|Christianity,God,TED Conference,death,faith,religion,technology
+310|TED Conference,brain,entertainment,illusion,magic
+312|TED Conference,brain,education,happiness,psychology,science,technology
+313|Africa,art,business,design
+315|Africa,TED Conference,ancient world,anthropology,apes,evolution,human origins,humanity,paleontology,science
+316|TED Conference,art,arts,culture,entertainment,global issues,happiness,software,storytelling,web
+318|TED Conference,architecture,art,business,design,humor
+319|communication,complexity,future,technology,web
+320|brain,complexity,computers,design,engineering,science,technology,visualizations
+321|TED Conference,art,design,engineering,math,origami,space
+322|TED Conference,cello,entertainment,music,origami
+323|Africa,DNA,anthropology,culture,evolution,genetics,race,science
+324|TED Conference,animals,culture,design,entertainment,global issues,photography,storytelling
+325|TED Conference,animals,entertainment,live music,music,piano
+326|TED Conference,astronomy,big bang,dark matter,education,energy,physics,science,time,universe
+327|TED Conference,entertainment,humor,illusion,magic
+328|animals,brain,children,love,psychology,violence
+329|entertainment,live music,music,performance,piano,technology
+330|Africa,activism,global issues,identity,media,politics,technology
+331|DNA,MacArthur grant,TED Conference,creativity,nanoscale,physics,science,technology
+333|TED Conference,education,illusion,media,science,technology
+334|TED Conference,animals,education,entertainment,performance
+335|business,design,exploration,science,space,technology
+339|business,history,media,technology,telecom
+340|Africa,animals,biodiversity,environment,global issues,pollution,primates,science
+341|TED Conference,brain,culture,evolution,global issues,morality,politics,psychology
+343|TED Conference,animals,geology,life,oceans,science,submarine,technology
+344|TED Conference,global issues,history,medicine,technology,war
+345|TED Conference,animals,energy,entertainment,global issues,sex,transportation
+346|book,design,entertainment,film,history,library,media,music,technology,web
+347|TED Conference,children,entertainment,memory,storytelling
+348|children,economics,education,food,garden,global issues,green
+349|TED Conference,communication,culture,happiness,parenting,relationships
+350|children,design,entertainment,happiness,invention,play,technology,toy
+351|TED Conference,brain,health,humanity,humor,politics,science,technology
+353|TED Conference,business,invention,investment,presentation,technology
+354|TED Conference,book,brain,children,culture,language,psychology,science
+355|AI,TED Conference,design,humanity,intelligence,robots,technology
+356|TED Conference,art,design,education,happiness,humor,work
+358|TED Conference,culture,democracy,global issues,politics,religion,social change,society,war
+359|architecture,art,arts,cities,design,theater
+360|TED Prize,arts,communication,design,media,photography,technology
+361|TED Conference,business,design,entertainment,gaming,technology
+362|TED Conference,cities,communication,community,design,global issues,politics,web
+363|TED Conference,entertainment,history,politics,sports,storytelling
+364|TED Conference,entertainment,humor,illusion,live music,music,performance
+365|TED Conference,culture,environment,global issues,history,social change,society,technology
+366|TED Conference,culture,global issues,happiness,music,psychology,work
+371|TED Conference,physics,science,technology
+372|art,brain,design,museums
+374|TED Conference,entertainment,extraterrestrial life,humor,love,physics,science,time
+375|TED Conference,beauty,business,culture,entertainment,illusion,marketing,performance,politics
+377|TED Conference,health,health care,medicine,science
+379|TED Conference,demo,design,drones,flight,green,solar,technology,transportation
+381|AIDS,Africa,TED Conference,activism,disease,global issues,health,media,photography,science
+383|TED Conference,design,entertainment,humor,love,media,poetry,storytelling
+385|TED Conference,business,creativity,design,industrial design,invention,materials,science,smell,technology,toy
+386|Africa,arts,creativity,culture,entertainment,film,global issues,war
+388|TED Conference,business,design,exploration,invention,oceans,technology
+390|TED Conference,culture,entertainment,media,social change,social media,technology
+391|TED Conference,activism,environment,global issues
+392|art,creativity,design,education,play,toy
+393|Senses,TED Conference,beauty,happiness,materials,science,smell,technology
+394|String theory,TED Conference,community,global issues,physics,politics,science,social change
+395|TED Conference,communication,global issues,morality,politics,terrorism,war
+396|business,creativity,design,entertainment,fashion,humor,media
+399|Planets,design,exploration,physics,robots,science,space,technology
+400|TED Conference,art,arts,design,entertainment,humor,performance,simplicity
+402|TED Conference,architecture,art,design,future,technology
+403|Africa,creativity,culture,entertainment,film,global issues,media,technology
+404|astronomy,culture,dark matter,design,physics,science,space,technology,time
+405|TED Conference,business,future,health,science,technology
+406|entertainment,food,global issues,sustainability
+407|TED Conference,business,climate change,design,entertainment,global issues,humor,media,sex
+408|TED Conference,aging,brain,business,health,public health,science,social change,technology
+409|TED Conference,arts,complexity,exploration,nature,science,trees,writing
+410|cities,communication,community,computers,entertainment,entrepreneur,life,technology
+411|TED Conference,alternative energy,cars,design,energy,future,green,technology
+412|TED Conference,demo,design,entertainment,invention,technology
+413|TED Conference,arts,culture,entertainment,invention,music,storytelling
+414|TED Conference,arts,creativity,design,exploration,play,politics
+416|animals,bees,disease,food,insects,life,nature
+418|TED Conference,book,business,culture,design,entertainment,entrepreneur,innovation,invention,library,technology
+419|book,business,culture,entertainment,food,happiness,writing
+420|brain,choice,culture,entertainment,goal-setting,happiness,psychology,self,society
+421|Planets,TED Conference,exploration,extraterrestrial life,geology,life,science,technology,universe
+422|TED Conference,biology,biomechanics,math,science,society,technology
+423|One Laptop Per Child,children,computers,design,education,global issues,philanthropy,politics,technology
+424|Asia,business,culture,exploration,food,global issues,history
+426|DNA,TED Conference,biology,curiosity,history,microbiology,science,technology
+427|arts,computers,curiosity,design,education,technology
+428|Africa,TED Conference,animals,biology,children,education,evolution,exploration,history,life,paleontology,science
+429|TED Conference,design,engineering,invention,technology,transportation
+430|TED Conference,design
+431|TED Conference,arts,beauty,business,design,exploration,photography
+432|TED Conference,art,arts,book,children,computers,creativity,design,entertainment,future,history
+433|art,book,chemistry,food,life,love,science
+434|TED Conference,business,consumerism,creativity,shopping
+435|art,arts,design,entertainment,happiness,typography
+436|TED Conference,design,exploration,humor,photography,typography
+437|biology,entrepreneur,food,genetics,science,technology
+439|TED Conference,culture,future,global issues,social change,technology
+440|TED Conference,disease,environment,global issues,history,life,science,space
+441|TED Conference,philanthropy,philosophy,writing
+442|TED Conference,business,creativity,design,invention,technology
+443|TED Conference,beauty,body language,design,prosthetics,sports,technology
+445|TED Conference,global issues,illness,medicine,science,technology,virus
+447|TED Conference,arts,collaboration,culture,entertainment,music,piano,violin
+450|TED Conference,energy,invention,solar energy,technology
+451|TED Conference,business,education,health,illness,insects,philanthropy,science,technology
+453|TED Conference,arts,creativity,culture,entertainment,poetry,work,writing
+455|TED Conference,art,communication,creativity,culture,design,education
+457|TED Conference,art,business,children,computers,design,education,invention,music,technology,toy
+462|TED Conference,business,culture,global issues,philosophy,politics,self,social change,society
+463|TED Conference,TEDBooks,biology,business,economics,robots,science,technology
+464|Latin America,TED Conference,TED Prize,arts,conducting,culture,education,entertainment,music,philanthropy,poverty
+466|TED Conference,TED Prize,arts,children,conducting,culture,education,entertainment,music
+467|TED Conference,TED Prize,activism,biodiversity,exploration,oceans,science,submarine
+468|TED Conference,TED Prize,exploration,extraterrestrial life,intelligence,science,space,universe
+469|TED Conference,aging,arts,business,entertainment,film,technology
+470|TED Conference,business,environment,oceans,plastic,science
+471|TED Conference,biodiversity,exploration,fear,fish,oceans,science,technology
+472|art,arts,beauty,cities,entertainment,exploration,photography
+473|TED Conference,business,communication,culture,entertainment,social change,social media,technology
+474|TED Conference,arts,children,culture,design,entertainment,gaming,technology,women
+475|TED Conference,animals,biodiversity,biosphere,global issues,green,science,trees
+476|TED Conference,activism,animals,biodiversity,biology,biosphere,children,education,environment,insects,trees
+477|economics,entertainment,work
+478|TED Conference,arts,entertainment,innovation,invention,live music,music,performance,piano
+480|TED Conference,creativity,design,happiness
+481|TED Conference,demo,design,interface design,technology
+482|TED Conference,activism,design,fashion,future,prosthetics,sports,technology
+483|brain,children,education,entertainment,gaming,happiness,health,play,psychology,science
+484|TED Conference,business,communication,design,invention,technology,web
+485|TED Conference,animals,biology,children,comedy,evolution,food,humanity,humor,primates,sex
+487|TED Conference,brain,culture,economics,evil,motivation,psychology,science,self,society
+488|animals,art,birds,creativity,entertainment,exploration,film,technology
+489|art,arts,entertainment,humor,media
+490|TED Conference,architecture,cities,environment,garden,science,technology
+492|TED Conference,alternative energy,energy,engineering,environment,future,wind energy
+494|TED Conference,activism,business,culture,global issues,poverty,women,work
+495|culture,technology
+498|TED Conference,culture,education,leadership,life,poetry,sports,work
+499|AIDS,Africa,TED Conference,bacteria,biodiversity,biology,disease,exploration,global issues,health,microbiology
+500|TED Conference,arts,culture,entertainment,literature,poetry,society,storytelling
+501|TED Conference,business,creativity,culture,design,media,typography
+502|TED Conference,adventure,design,entertainment,exploration,extreme sports,flight,invention,sports,technology
+503|TED Conference,creativity,design,exploration,materials,transportation
+504|TED Conference,design,drones,future,global issues,politics,robots,technology,violence,war
+506|TED Conference,architecture,children,design,entertainment,film,storytelling
+507|TED Conference,global issues,math,politics,prediction,technology,war
+509|MacArthur grant,TED Conference,bacteria,biology,communication,disease,evolution,health,human origins,microbiology,science
+510|TED Conference,cognitive science,comedy,entertainment,humor,philosophy,science,technology
+511|communication,social media,society,telecom
+512|TED Conference,alternative energy,business,cars,energy,global issues,green,solar,technology
+515|TED Conference,biology,biotech,children,evolution,genetics,science,technology
+516|TED Conference,art,math,science,technology,visualizations
+517|dance,fear,language,life,productivity,work
+518|TED Conference,adventure,entertainment,environment,nature
+519|TED Conference,art,design,math,oceans,science,visualizations
+520|TED Conference,business,design,technology,work
+521|TED Conference,cities,politics,race,statistics,urban planning
+523|Africa,TED Conference,activism,communication,disaster relief,global issues,technology
+524|New York,TED Conference,art,book,cities,humor
+525|TED Conference,business,china,cities,culture,economics,future,global issues,happiness,health,history
+526|TED Conference,brain,computers,consciousness,education,entrepreneur,mind
+527|TED Conference,culture,humanity,humor,identity,performance,storytelling,theater
+529|TED Conference,Vaccines,business,health,health care,history,politics,technology
+531|TED Conference,astronomy,energy,exploration,physics,science,technology
+532|TED Conference,TED Fellows,math,physics,war
+533|TED Conference,art,arts,dance,education,future,science,space,technology
+534|TED Conference,TED Prize,art,arts,design,engineering,space
+535|TED Conference,alternative energy,biosphere,climate change,energy,environment,presentation,science,technology
+537|TED Conference,business,development,food,global issues,industrial design
+538|TED Conference,book,communication,community,marketing,social media,society
+540|AIDS,Africa,TED Conference,disease,global issues,presentation,statistics,visualizations
+541|TED Conference,art,entertainment,live music,music,piano
+544|New York,TED Conference,entertainment,innovation,music,performance,singer
+545|TED Conference,business,development,economics,global issues,politics,potential,technology,third world
+547|TED Conference,business,design,environment,green,materials,poetry,sustainability,technology
+548|culture,decision-making,economics,global issues,psychology,science,self,society
+549|TED Conference,book,culture,history,humor,science,sex,writing
+551|Planets,TED Conference,astronomy,exploration,life,science,space,technology
+552|TED Conference,cars,design,engineering,green,transportation
+553|TED Conference,children,culture,humor,psychology
+554|TED Conference,United States,business,china,education,global issues,language
+555|culture,education,global issues,leadership,politics
+556|TED Conference,biodiversity,biology,biosphere,environment,future,garden,life,science
+557|TED Conference,guitar,innovation,music,performance,singer
+558|TED Conference,activism,collaboration,creativity,education,future,politics,social change
+560|TED Conference,computers,education,future,nanoscale,prediction,science,technology
+561|TED Conference,art,climate change,environment,film,future,humanity,media,photography
+562|TED Conference,book,entertainment,history,literature,poetry,writing
+563|TED Conference,community,social change
+565|TED Conference,architecture,business,demo,design,green,invention,technology
+566|TED Conference,architecture,children,design,energy,technology
+570|TED Conference,beauty,culture,happiness,neuroscience,psychology
+571|TED Conference,animals,biology,biomechanics,design,materials,robots,technology
+572|TED Conference,business,humor,life,productivity,psychology,success
+573|TEDx,adventure,biosphere,biotech,climate change,environment,space
+575|communication,culture,global issues,politics,social change,social media,technology
+578|God,TED Conference,activism,faith,meme,religion
+580|TED Conference,design,health care,heart health,medicine,science,technology
+581|TEDx,china,music,performance,piano,technology
+582|TED Conference,brain,business,happiness,mind,psychology,science
+584|global issues,money,politics,poverty,state-building
+585|TED Conference,activism,community,global issues,philanthropy,potential
+586|TED Conference,global issues
+587|TED Conference,economics,education,math,statistics
+588|TED Conference,TEDBooks,children,development,education,innovation,invention
+589|TED Conference,architecture,cities,creativity,design,technology
+590|TED Conference,children,creativity,design,film,product design
+591|TED Conference,brain,creativity,design,presentation,technology,visualizations
+592|Asia,TED Conference,adventure,development,storytelling,third world,war
+594|TED Conference,biology,chemistry,disease,health,health care,medicine,science,technology
+598|alternative energy,climate change,development,environment,future,global issues,green,sustainability,urban planning
+599|TED Conference,art,arts,cities,design
+601|TED Conference,biology,biotech,health,health care,medicine,science,technology
+602|TED Conference,brain,consciousness,development,mental health,mind,psychology,science,violence
+603|TED Conference,anthropology,biology,evolution,human origins,humanity,race,science
+604|Europe,collaboration,communication,economics,global issues,politics,technology
+605|culture,philosophy,success,work
+606|TED Conference,art,arts,creativity,design,poetry,software,technology
+607|apes,evolution,science
+608|business,cities,culture,economics,global issues,politics
+610|art,arts,creativity,education
+613|business,demo,design,global issues,invention,technology,water
+614|biodiversity,biology,biomimicry,biotech,creativity,design,innovation,invention,nature
+615|arts,entertainment,global issues,music,poetry,politics,war
+618|brain,business,creativity,motivation,science,social change,work
+619|engineering,entrepreneur,future,science,technology
+620|development,education,medicine,presentation,science,technology
+621|TED Conference,arts,media,performance,performance art,storytelling,theater
+622|agriculture,biodiversity,biosphere,climate change,disaster relief,environment
+623|development,global issues,health,health care,innovation,invention,product design,sight
+625|culture,design,education,health,social change,technology
+626|design,math,presentation,science,visualizations
+627|entertainment,film,space,sports,technology
+628|climate change,global issues,photography,science,technology
+629|adventure,climate change,science,sports
+630|brain,morality,science,technology
+631|Asia,TED Conference,beauty,culture,history,music,performance
+633|adventure,crime,economics,global issues,writing
+634|architecture,cities,creativity,design,environment,green
+635|comedy,philosophy,science
+637|TED Conference,biology,brain,medicine,mental health,mind,neurology,psychology,sight
+639|creativity,entertainment,live music,music,performance,piano
+640|Internet,culture,law,technology,web,wikipedia
+641|Internet,government,politics,technology,web
+642|Africa,creativity,energy,invention,poverty
+643|adventure,art,arts,culture,curiosity,photography
+644|Africa,business,development,economics,global issues,innovation,invention,poverty,third world,women
+645|Asia,economics,global issues,history,map,politics,state-building,war,world cultures
+646|art,business,design,green,history,product design
+647|God,TED Prize,global issues,politics,religion,violence
+648|astronomy,chemistry,life,science,technology,universe
+649|adventure,art,creativity,design,happiness,innovation,work
+650|ancient world,cities,culture,food,global issues
+651|TEDx,business,communication,culture,leadership,society
+652|Africa,book,culture,identity,storytelling,writing
+653|art,brain,consciousness,mind,psychology,science,visualizations
+654|architecture,book,culture,design,entertainment,men
+655|cities,environment,history,life,nature,sustainability,technology,visualizations
+657|TED Conference,body language,demo,design,engineering,entertainment,robots,technology
+658|advertising,business,consumerism,creativity,economics,happiness,life,psychology
+659|brain,computers,consciousness,mind,neurology,philosophy,technology
+660|birds,business,cities,entertainment,music
+661|TEDx,advertising,business,consumerism,economics,marketing
+662|TEDx,art,computers,design,film,technology,visualizations
+663|business,conducting,leadership,music,psychology,society
+664|design,development,education,health,medicine,sanitation,science,technology
+665|development,economics,future,global issues,inequality,technology,third world
+666|ancient world,cosmos,faith,history,philosophy,physics,religion,science,technology
+667|architecture,art,biology,design,development,life,science,sustainability,technology
+669|depression,happiness,life,personal growth,poverty,social change,society,storytelling
+670|architecture,art,beauty,math,physics,universe
+672|arts,creativity,live music,music,performance
+673|charter for compassion,compassion,global issues,religion
+674|charter for compassion,chautauqua,compassion,global issues,religion,self
+675|charter for compassion,chautauqua,compassion,faith,global issues,life,religion
+676|charter for compassion,compassion,global issues,religion
+677|charter for compassion,chautauqua,compassion,global issues,love,religion,self
+679|charter for compassion,compassion,evolution,global issues
+680|anthropology,humanity,love,psychology,social media,society,sociology,technology
+681|TED Conference,business,cities,design,global issues,social change,technology
+682|chemistry,climate change,environment,global issues,science,weather
+683|TED Prize,design,energy,global issues,photography,technology
+684|culture,entertainment,global issues,poetry,politics
+685|demo,design,open-source,technology
+686|business,culture,global issues
+688|culture,dance,entertainment,global issues,politics,social change
+689|business,culture,entertainment,global issues,politics,writing
+691|design,disease,green,innovation,nature,product design,science,technology
+692|arts,environment,global issues,leadership,politics,women in business
+694|astronomy,history,innovation,science,technology
+695|Asia,economics,health,statistics,technology,visualizations
+696|big problems,cities,energy,environment,future,green,pollution,sustainability,technology
+698|Africa,architecture,bacteria,biology,design,sustainability,water
+700|Europe,big problems,environment,global issues,government,interview,politics,war
+701|astronomy,dark matter,exploration,physics,science,space,technology
+702|architecture,design,environment,history,innovation,photography,sustainability,water
+704|Asia,Slavery,children,global issues,poverty,sex,trafficking,women
+705|art,computers,design,gaming,math,online video
+706|comedy,global issues,government,performance,politics
+708|art,history,performance,personal growth
+709|design,health,health care,humanity,medicine,public health,sight,technology
+710|Egypt,culture,entertainment,global issues,media,music
+712|corruption,economics,global issues,money,terrorism
+713|Asia,art,humanity,photography,storytelling,third world,war
+714|Internet,animals,business,culture,entertainment,entrepreneur,oceans,web
+715|biodiversity,biology,biosphere,birds,insects,science
+716|art,book,language,music,poetry,writing
+717|Asia,TED Fellows,crime,entrepreneur,potential,poverty,social change,society
+718|alternative energy,climate change,energy,environment,physics
+719|TED Fellows,culture,entrepreneur,global issues,health,health care,peace,politics,violence,war
+720|business,computers,creativity,death,design,goal-setting,innovation,life,technology
+721|education,government,law,philosophy,politics
+722|business,creativity,development,engineering,innovation,poverty
+723|adventure,aircraft,engineering,green,solar energy,technology
+724|biology,brain,cities,cognitive science,evolution,neurology,science
+726|art,nature,photography,science
+727|TEDx,biology,culture,exploration,food,health,life,science
+728|animals,biodiversity,biosphere,environment,water
+729|TED Conference,arts,live music,music,performance
+730|culture,disease,education,life,self
+732|biology,brain,humanity,life,mind,primates,psychology
+733|business,life,money,presentation
+734|activism,animals,biodiversity,biosphere,environment
+735|children,education,leadership,social change,society
+736|cities,collaboration,design,map,technology
+737|book,disaster relief,novel,poetry,storytelling
+738|TED Conference,astronomy,comedy,humor,map,science
+741|biology,magic,medicine,performance
+743|Asia,art,arts,design,future
+744|biology,health,medicine,science,technology
+745|arts,live music,music,performance
+746|biology,evolution,life,science,universe
+747|education,performance,poetry,writing
+748|cities,health,health care,heart health,medicine,public health,technology
+750|architecture,arts,creativity,design,theater
+751|culture,feminism,gender,self,social change,women,yesallwomen
+752|TED Fellows,children,design,entrepreneur,health,innovation,invention,medicine
+755|business,creativity,map
+756|book,creativity,education,goal-setting,poverty,writing
+757|big problems,brain,economics,global issues,health,sanitation,technology,women
+759|collaboration,community,entrepreneur,health,health care,media,medicine
+760|TEDx,chemistry,development,disease,poverty,science,technology
+761|cancer,health,health care,medicine,technology
+762|art,astronomy,creativity,illness,science,space
+763|TEDx,corruption,global issues,money,politics
+765|TED Conference,business,education,food,global issues,health,obesity
+766|TED Conference,cities,design,map,technology
+767|TED Conference,business,energy,global issues,invention,science,technology
+768|TED Conference,business,global issues,politics
+769|activism,happiness,health,prosthetics,social change,society
+770|TEDx,computers,history,life,technology
+771|TED Conference,business,design,health care,law
+772|disease,health,health care,medicine,technology
+773|TED Conference,animals,brain,design,education,invention,mental health,science,technology
+775|brain,mind,music,performance
+776|biology,health care,medicine,neurology,science,sight
+777|TED Conference,art,arts,culture,design,entertainment
+779|TED Conference,brain,culture,economics,happiness,mind,philosophy,psychology,science
+780|business,culture,entertainment,sports
+783|TED Conference,data,demo,interface design,technology,web
+784|astronomy,physics,science
+785|TED Conference,adventure,entertainment,film,nature,oceans,storytelling,submarine,technology,writing
+786|TED Conference,art,arts,collaboration,dance,entertainment,gaming
+787|business,happiness,life,mind,psychology,self
+788|Internet,TED Conference,computers,statistics,visualizations,web
+789|TED Conference,cities,culture,design,transportation
+790|TED Conference,agriculture,biology,environment,food,health
+791|adventure,biology,exploration,humanity,medicine,science,weather
+792|entertainment,illusion,magic,medicine,science
+795|Internet,business,entrepreneur,money,web
+796|TED Conference,biology,fish,health care,science,war
+797|business,health,health care,science,technology
+798|biodiversity,biology,comedy,life,religion,storytelling,writing
+799|TED Conference,computers,design,entertainment,gaming,global issues,play
+800|arts,creativity,entertainment,film
+801|TED Conference,culture,global issues,morality,philosophy,psychology,religion,science
+802|Brazil,Latin America,TED Conference,TED Fellows,activism,biodiversity,biology,birds,global issues,science
+803|TED Conference,business,language,law,simplicity
+804|Planets,TEDx,exploration,life,science,space,technology
+805|TED Conference,TED Fellows,arts,brain,education,entertainment,live music,mental health,music,violin
+806|arts,humanity,psychology,theater
+807|Slavery,TED Conference,business,economics,global issues,humanity,trafficking
+809|children,development,education,poverty
+811|TED Conference,future,global issues,media,news,science
+814|TED Conference,business,dance,entertainment,leadership,marketing,online video
+815|TED Conference,children,creativity,education,intelligence
+816|business,consumerism,design,entertainment,gaming,technology
+818|AIDS,TED Conference,global issues,health,health care,sex
+819|design,health,health care,medicine,prosthetics,technology,war
+820|AI,TEDx,engineering,robots,science,technology
+821|TED Conference,bees,biology,botany,environment,life,sex
+823|TED Conference,literature,music,performance,poetry
+824|TED Conference,global issues,medicine,religion,science,writing
+826|TED Conference,global issues,media,photography,poverty,war
+828|TED Conference,business,culture,green,technology
+830|arts,entertainment,film,fish,global issues,oceans,science,submarine
+831|TED Conference,art,arts,cities,culture,design,entertainment,race
+832|Internet,music,online video,performance,web
+833|animals,design,exploration,fish,mission blue,oceans,science,technology
+835|TED Conference,culture,health,magic,science
+836|TED Conference,TED Fellows,biology,engineering,invention,microbiology
+837|TED Conference,business,collaboration,culture,design,entertainment,psychology
+838|TED Conference,business,culture,democracy,politics,social change
+840|biology,birds,evolution,life
+842|culture,feminism,social change,third world,women
+843|String theory,TED Conference,biology,complexity,computers,math,physics,science,simplicity
+844|adventure,entertainment,global issues,goal-setting,oceans
+845|TED Conference,chemistry,complexity,design,history,simplicity,technology
+846|TED Conference,comedy,entertainment,statistics
+847|TED Conference,big problems,cities,economics,poverty,third world
+848|TEDx,business,entrepreneur,leadership,success
+849|TED Conference,entertainment,history,live music,music
+850|fish,green,mission blue,oceans,science
+851|creativity,entrepreneur,innovation,invention,poverty
+852|TED Conference,evolution,health,medicine,obesity,science,society
+853|TED Conference,creativity,disease,innovation,insects,invention,poverty,technology
+854|economics,fish,mission blue,oceans,science
+855|TEDx,children,education,math,student
+856|TED Conference,children,comedy,humor,relationships,sex
+857|humanity,mind,peace,psychology,war
+859|TED Conference,cancer,food,medicine,science,technology
+860|TED Conference,culture,food,global issues,green
+861|animals,global issues,mission blue,oceans,science
+862|TED Conference,alternative energy,energy,exploration,green,science,technology
+863|DNA,biology,business,genetics,life,science,technology
+865|TED Conference,children,creativity,education,invention
+866|TEDx,business,creativity,culture,design,fashion,law,media
+868|TED Fellows,arts,children,culture,film,politics,suicide,war
+869|AIDS,TED Conference,Vaccines,epidemiology,global issues,health,medicine
+870|cities,music,performance,poetry,storytelling
+871|Internet,TEDx,law,music,online video,technology,web
+872|TED Conference,computers,design,interface design,invention,technology,visualizations
+873|fish,mission blue,oceans,photography,science
+874|Internet,TED Conference,activism,collaboration,computers,culture,government,law,meme,web
+876|curiosity,economics,global issues,innovation,physics,science,space
+877|TEDx,art,arts,engineering,entertainment,music,online video,physics
+878|TED Conference,democracy,government,law,philosophy,politics,sports
+879|Africa,TED Conference,animals,biodiversity,global issues,green,science
+880|creativity,design,economics,engineering,motivation,politics,simplicity
+881|TED Conference,climate change,economics,energy,environment,green,law,nuclear weapons,politics,wind energy
+883|TED Conference,architecture,arts,future,history,music
+884|God,TED Conference,faith,neurology,psychology,science,self
+885|TED Conference,art,arts,business,creativity,culture,entertainment,law,online video,technology
+886|animals,mission blue,oceans,science,singer
+887|TEDx,business,children,education,entrepreneur,money
+888|cancer,dance,music,performance,personal growth,storytelling
+889|Buddhism,TED Conference,business,economics,happiness,money,psychology
+891|TED Conference,art,design,innovation,typography
+892|cities,education,global issues,innovation
+893|children,medicine,neurology,science,technology
+894|TED Conference,children,design,entertainment,entrepreneur,gaming,toy
+896|collaboration,community,culture,technology,wikipedia
+898|TEDx,cities,design,urban planning
+899|fish,health,mission blue,oceans,science
+900|TED Conference,art,astronomy,science,space,technology
+901|TED Conference,TED Fellows,architecture,design,environment,urban planning
+909|TED Conference,math
+910|TEDx,food,global issues,health,obesity,social change
+911|TED Conference,biosphere,crime,environment,nature,prison,social change,trees
+912|culture,data,demo,global issues,poverty,prediction,presentation
+914|TEDx,disaster relief,energy,environment,oceans,oil,pollution
+915|business,collaboration,design,technology
+916|communication,global issues,language,news,technology,web
+917|culture,novel,politics,storytelling,women
+918|communication,global issues,iraq,military,news,politics,technology
+919|Islam,art,culture,peace,third world
+920|Planets,astronomy,biology,extraterrestrial life,life,technology,universe
+921|brain,computers,design,entertainment,interface design,mind,technology
+922|TED Conference,biology,design,future,medicine,technology
+923|business,creativity,intelligence,self
+924|business,choice,culture,decision-making,economics,psychology,social change,society
+926|mission blue,oceans,poetry,science,technology
+927|brain,business,design,economics,money,monkeys,psychology,science
+928|activism,adventure,climate change,global issues,science,sports
+929|business,environment,green,sustainability
+930|Slavery,development,economics,education,feminism,poverty,trafficking,women,yesallwomen
+931|God,LGBT,culture,government,law,love,religion,sex
+932|AI,children,computers,design,gaming,psychology,technology
+934|comedy,entertainment,politics
+935|Iran,Middle East,comedy,entertainment,politics
+936|TEDx,business,entertainment,entrepreneur,gaming,money,psychology
+937|complexity,computers,data,design,visualizations
+938|climate change,news,science
+939|animals,arts,entertainment,humor,oceans,science
+940|TEDx,disaster relief,energy,environment,green,oil,sustainability
+941|business,marketing,math,physics
+943|brain,economics,evolution,mind,psychology,science
+944|TEDBooks,big problems,culture,data,economics,global issues,happiness,statistics
+945|agriculture,cities,climate change,environment,global issues
+946|brain,culture,happiness,religion,society
+947|goal-setting,motivation,personal growth,self,storytelling,success
+948|biodiversity,biology,environment,life,nature,photography,trees
+949|children,development,education,technology,third world,web
+950|art,arts,design,entertainment,visualizations
+951|global issues,innovation,iraq,politics,state-building
+952|TEDx,arts,education,entertainment,performance
+953|advertising,business,design,marketing
+954|mission blue,oceans,science,technology
+955|business,education,global issues,innovation,online video,science,technology,web
+957|evolution,humanity,personal growth,science,self
+958|health,humanity,medicine,meme,science,society
+959|culture,history,music,performance,singer,technology
+960|book,business,consumerism,design,engineering,food,medicine,product design
+961|collaboration,innovation,novel,science,technology
+962|AIDS,Africa,community,health,health care,women
+963|AIDS,Africa,activism,health,personal growth
+964|TEDx,communication,culture,design,interface design,telecom
+965|Senses,design,music,nature,psychology,science,sound
+966|decision-making,design,health,medicine,psychology,statistics,technology
+967|brain,mind,science,technology
+968|brain,depression,global issues,mental health,peace,politics,poverty,psychology,violence,war
+970|TEDx,culture,global issues,health,population,science
+971|environment,green,nature,plastic,product design,technology
+972|development,economics,green,poverty,sustainability
+973|mission blue,oceans,science,technology
+974|Africa,TEDx,data,development,health,inequality,statistics,third world
+975|TED Conference,cancer,medicine,personal growth,storytelling
+976|biology,collaboration,science
+977|TEDx,business,development,global issues,philanthropy,sanitation
+978|TED Fellows,architecture,business,disaster relief,global issues,natural disaster,technology
+980|art,arts,collaboration,design,engineering,environment,performance art,technology
+981|Internet,comedy,gaming,humanity,humor,music,play,technology,web
+982|LGBT,humanity,politics,social change,society,violence
+983|business,entrepreneur,global issues,poverty,social change,women in business
+984|biology,food,science,technology
+986|consumerism,global issues,green,mission blue,oceans,plastic
+987|art,media,news,politics,third world,war
+988|TED Conference,future,garden,music,performance,society
+991|business,design,economics,industrial design,technology
+992|china,culture,economics,global issues,government,peace,politics,war
+993|environment,fish,food,oceans,sustainability
+994|TEDx,agriculture,green,insects,nature,technology
+995|art,arts,design,performance,technology
+996|culture,education,entertainment,gaming,technology
+997|culture,democracy,design,global issues,government,politics,technology
+998|global issues,mission blue,oceans,politics,science,submarine
+1000|biology,brain,neurology,science
+1001|TED Conference,arts,entertainment,music,performance
+1002|design,education,poverty
+1003|Africa,iraq,peace,politics,third world,violence,war
+1004|TEDx,culture,history,photography,poverty
+1005|big problems,business,global issues,inequality,law,work
+1006|TED Fellows,complexity,design,science,simplicity
+1007|computers,education,math,technology
+1008|Senses,TED Conference,arts,beauty,brain,culture,design,evolution,society
+1009|TEDx,children,education,leadership,motivation,personal growth,sports,storytelling
+1010|culture,design,education,green
+1011|global issues,law,mission blue,oceans,politics,science
+1012|TEDx,brain,children,health,medicine
+1013|drones,global issues,iraq,politics,war,women
+1014|TEDx,business,creativity,culture,design,technology,work
+1015|TEDx,architecture,cities,creativity,design,green,technology
+1016|TEDx,agriculture,business,environment,food,green,health,sustainability
+1017|TEDx,culture,global issues,politics,war
+1018|agriculture,environment,food,health,insects
+1019|Africa,TEDx,animals,smell,technology,war
+1020|business,cities,culture,entertainment,food,global issues,sustainability
+1030|business,feminism,politics,women,women in business
+1031|bullying,culture,feminism,global issues,men,women,yesallwomen
+1032|crime,culture,education,global issues,politics,social change
+1033|culture,economics,education,feminism,global issues,women
+1034|TEDx,children,culture,education
+1036|children,communication,culture,education,entertainment,sex,web
+1037|TEDx,business,cities,collaboration,communication,consumerism,culture,technology
+1038|business,children,disease,economics,education,history,medicine,money,psychology
+1039|Africa,animals,environment,film,global issues,photography
+1040|business,education,feminism,goal-setting,leadership,technology,women,women in business
+1041|TEDx,business,cities,community,economics,green
+1042|TEDx,communication,culture,depression,fear,mental health,psychology,self,social change
+1043|culture,global issues,happiness,philosophy,self
+1044|business,culture,entertainment,productivity
+1045|TEDx,culture,global issues,journalism,religion
+1046|TEDx,brain,creativity,entertainment,music,science,technology
+1047|business,cancer,medicine,science,technology
+1048|TEDx,book,happiness,life,love,personal growth,psychology,writing
+1049|activism,global issues,humanity,nuclear weapons,peace
+1050|anthropology,computers,culture,cyborg,future,technology
+1051|design,entertainment,technology
+1052|communication,global issues,politics
+1053|TEDx,bullying,children,education,gaming,psychology,technology,violence
+1054|activism,business,culture,economics,science,social change
+1055|arts,health care,medicine,music,science,technology
+1056|TEDx,business,communication,global issues,green,inequality,plastic,poverty,science
+1057|TEDx,data,health,medicine,science,technology,visualizations
+1058|AI,comedy,entertainment,robots,science,technology
+1059|Asia,business,china,culture,economics,global issues
+1060|business,design,health,medicine,science,technology
+1061|art,comedy,culture,feminism,humor,media,peace,women
+1062|cancer,community,culture,storytelling
+1064|architecture,biology,cities,design
+1065|cities,collaboration,computers,curiosity,design,drones,hack,innovation,media,technology
+1066|advertising,culture,entertainment,media,social media
+1067|TEDx,entertainment,health,journalism,science,sports
+1068|arts,culture,global issues,poetry,war,women
+1069|TEDx,business,culture,motivation,work
+1070|AI,body language,business,communication,design,entertainment,robots,technology
+1071|community,global issues,health,medicine,politics,science,women
+1072|architecture,arts,biomimicry,design,sustainability
+1073|TEDx,entertainment,live music,music,performance
+1074|charter for compassion,compassion,faith,religion,science
+1075|TEDx,brain,children,language,science,technology
+1076|culture,economics,global issues,investment,women in business
+1077|business,technology
+1078|Foreign Policy,business,iraq
+1079|business,choice,culture,economics
+1080|arts,body language,community,culture,design,medical research
+1081|anthropology,storytelling
+1082|cancer,genetics,medical research
+1083|arts,entertainment,live music
+1084|Egypt,Middle East,TED Conference,global issues,iraq,media,politics,protests,technology
+1085|TED Conference,TED Prize,activism,arts,community,photography
+1086|Egypt,TED Conference,democracy,global issues,politics,protests,social change
+1087|TED Conference,aging,education,money,politics,youth
+1088|Surgery,TED Conference,health care,invention,medical research,prosthetics
+1089|culture,feminism,history,identity,women,writing
+1090|TED Conference,culture,education,global issues,online video
+1091|TED Conference,culture,global issues,journalism,politics,technology
+1092|TED Conference,brain,children,language,time
+1093|TEDx,business,environment,global issues,innovation,nature,sustainability,water
+1094|TED Conference,brain,culture,motivation,society
+1095|TED Conference,dark matter,science,universe
+1096|TED Conference,community,compassion,culture
+1098|TEDx,architecture,design
+1100|TED Conference,entertainment,performance,poetry,storytelling
+1101|culture,data,economics,women
+1102|TED Conference,TED Fellows,animals,culture,play,science
+1103|TEDx,biology,biomechanics,deextinction,future,genetics,philosophy,science
+1104|TED Conference,design,disability,exoskeleton,science,technology
+1105|TEDx,arts,creativity,entertainment,music
+1106|TEDx,culture,global issues,language
+1107|Iran,TED Conference,computers,government,nuclear energy,politics,science,technology,war
+1108|TED Conference,animals,arts,design,entertainment,theater
+1109|TED Conference,business,robots,science,technology,transportation
+1110|TED Conference,arts,conducting,entertainment,music,online video
+1111|TED Conference,education,science,technology,toy
+1112|TED Conference,culture,global issues,iraq,leadership,peace,war
+1113|business,charter for compassion,culture
+1114|Brand,TED Conference,business,consumerism,film,humor
+1115|creativity,design,disease,invention,open-source,technology
+1116|activism,business,culture
+1117|TED Prize,TEDx,entertainment,music,oceans
+1118|Internet,TED Conference,big bang,cosmos,education,history,humanity,universe,visualizations
+1119|TEDx,collaboration,community,culture,education,global issues,politics
+1120|TEDx,book,culture,entertainment,global issues,history,storytelling,war
+1121|TED Conference,arts,community,culture,speech
+1122|TED Conference,TED Fellows,culture,open-source,technology
+1124|business,technology
+1125|TEDx,culture,empathy,global issues,iraq,politics,society,sociology,war
+1126|TED Conference,culture,failure
+1127|TED Conference,design,education,gaming,global issues,government,peace,politics,war
+1129|exploration,journalism,science,technology,universe
+1130|TED Conference,business,storytelling,transportation
+1131|TED Conference,evolution,medicine,philosophy,science,technology
+1132|TEDx,culture,global issues,security,technology,terrorism
+1133|DNA,TEDx,alternative energy,biology,evolution,genetics,nature,virus
+1134|TED Conference,demo,design,entertainment,software,technology
+1135|design,education,play,science,technology,toy
+1136|culture,global issues,parenting,politics,terrorism
+1137|TED Conference,cities,design,entertainment,technology
+1138|TED Conference,TED Fellows,bacteria,biology,biotech,creativity,design,fashion,materials,technology
+1139|String theory,TEDx,astronomy,cosmos,philosophy,physics,science,time,universe
+1140|TED Conference,beauty,bees,evolution,film,garden,insects,life,nature
+1141|TED Conference,animals,biodiversity,creativity,culture,design,entertainment,photography,storytelling
+1142|TED Conference,biology,biomimicry,design,green,invention,life,medicine,science,technology
+1143|TED Conference,body language,culture,happiness,science,society
+1144|TED Conference,art,arts,design,technology
+1145|TEDx,culture,history,physics,science,storytelling
+1146|TED Conference,brain,neurology,science,technology
+1147|TED Conference,architecture,arts,creativity,design
+1148|Senses,TED Conference,brain,health,health care,pain,science
+1149|TED Conference,biology,deextinction,exploration,oceans,photography,science
+1150|TED Conference,culture,demo,entertainment
+1151|entertainment,social media
+1152|TED Conference,arts,collaboration,data,design,technology,visualizations
+1153|TED Conference,Vaccines,disease,global issues,health,science
+1154|arts,film,global issues,photography,politics,women
+1155|Egypt,Islam,TEDx,culture,democracy,religion
+1156|TED Conference,TED Fellows,collaboration,creativity,entertainment,live music
+1157|arts,creativity,culture,entertainment
+1158|Senses,TED Conference,design,sight,technology,transportation
+1159|arts,design,film,happiness,motivation
+1160|TED Conference,philosophy,physics,science
+1161|consumerism,creativity,culture,design,fashion
+1162|TEDx,culture,philosophy,technology
+1163|TED Conference,genetics,paleontology,science
+1164|TED Conference,art,arts,cities,culture,data,design,technology,visualizations
+1165|TED Conference,business,cities,culture,design,global issues,politics
+1166|TEDx,culture,gender,politics
+1167|communication,culture,depression,mental health,storytelling,suicide
+1168|TEDx,design,health care,science,technology
+1169|TED Conference,art,arts,creativity,design,storytelling
+1170|Europe,TEDx,business,culture,economics,play,social change
+1171|TED Conference,TED Fellows,art,arts,glacier,global issues,photography
+1172|design,entertainment,live music,music,technology
+1173|TED Conference,design,entertainment,live music,music,technology
+1174|TED Conference,cars,cities,design,mobility,technology
+1175|TED Conference,arts,brain,culture
+1176|TED Conference,culture,education,love,storytelling
+1177|art,arts,astronomy,design,entertainment,physics,sound,technology
+1178|brain,depression,entertainment,mental health,performance
+1179|TEDx,community,crime,global issues,peace,social change,terrorism,violence
+1180|TED Conference,computers,history,language,science
+1181|TEDx,collaboration,culture,data,health care,science,technology
+1182|TED Conference,activism,arts,cities,culture
+1183|TED Conference,culture,success
+1184|TED Conference,arts,creativity,design,entertainment,food,photography,technology
+1185|bees,biology,botany,environment,insects,life,science,sex
+1186|consciousness,medicine,technology
+1187|TED Conference,TED Fellows,biology,biomimicry,biotech,science
+1188|culture,politics,protests,social media
+1189|culture,democracy,global issues,politics
+1190|business,creativity,culture,society
+1191|communication,global issues,journalism,politics,war,women
+1192|Internet,TEDx,computers,crime,global issues,technology,virus
+1193|art,arts,culture,entertainment,psychology,self
+1194|complexity,computers,social change,technology
+1195|animals,biomechanics,biomimicry,design,robots,technology
+1196|Foreign Policy,Middle East,global issues,military,peace,politics,war
+1197|biology,business,cities,complexity,math,science
+1198|happiness,philosophy,psychology,science
+1199|culture,economics,food,global issues,peace,politics,war
+1200|arts,culture,sound
+1201|consciousness,culture,self,social change,social media,technology
+1202|Internet,cities,invention,technology
+1203|biology,communication,culture,evolution,language,science
+1204|TED Fellows,health,microbiology,science
+1205|activism,arts,brain,cancer,culture,poetry
+1206|TED Conference,culture,education,feminism,gaming,gender,sex
+1207|architecture,cities,collaboration,design,energy,environment,green,technology
+1208|TEDx,animals,birds,collaboration,global issues,oceans,science
+1209|activism,collaboration,global issues,peace,war
+1210|TED Fellows,exploration,science,technology,universe
+1211|art,arts,design,entertainment,illusion,magic,music,technology
+1212|TED Conference,cognitive science,economics,medical research,science,technology
+1213|DNA,biology,evolution,science
+1214|arts,communication,compassion,entertainment,film,peace,violence,war
+1215|TED Conference,TED Fellows,design,technology
+1216|Buddhism,compassion,culture,death,global issues
+1217|TED Conference,culture,design,history,invention,technology
+1218|biology,life,nanoscale,science
+1219|arts,book,creativity,design,entertainment,technology
+1220|Asia,culture,democracy,economics,global issues,politics
+1221|Internet,computers,crime,global issues,technology
+1222|TED Conference,art,communication,culture,glacier
+1223|DNA,TEDx,biotech,health care,science,technology
+1224|culture,entertainment
+1225|business,global issues,philanthropy
+1226|business,culture,economics,global issues
+1227|Google,TEDx,data,design,library,technology,visualizations,writing
+1228|Africa,business,global issues,marketing,philanthropy
+1229|animals,biology,cancer,science
+1230|TED Conference,business,creativity,culture,presentation
+1231|communication,culture,health,health care,medicine,science
+1232|creativity,culture,design,education,work
+1233|Africa,democracy,entertainment,film,global issues,politics
+1234|data,health care,illness,illusion,medicine,science
+1235|arts,creativity,entertainment,sex
+1236|Asia,china,economics,global issues,media,politics
+1237|TEDx,bacteria,biology,evolution,life,science
+1238|TED Conference,consumerism,culture,design,happiness,media,simplicity
+1239|business,global issues,green,plastic,technology
+1240|arts,collaboration,conducting,culture,entertainment,music
+1241|brain,children,culture,education,psychology
+1242|TEDx,cities,collaboration,culture,global issues,journalism,social media
+1243|Senses,arts,beauty,design,happiness
+1244|business,history,technology,web
+1245|Internet,TEDx,collaboration,open-source,science,technology
+1246|culture,psychology,science,society
+1247|TED Fellows,arts,death,design,green,invention
+1248|culture,development,education,global issues,invention,women
+1249|energy,entrepreneur,environment,science,technology
+1250|computers,global issues,politics,security,technology,terrorism,war
+1251|Senses,design,engineering,invention,medicine,prosthetics,science,technology
+1252|TED Fellows,art,arts,data,visualizations,weather
+1253|culture,data,global issues,inequality,money,social change,visualizations
+1254|brain,culture,neurology,science
+1255|drones,invention,war
+1256|TEDx,business,cancer,medical research,open-source,science
+1257|TED Conference,art,arts,creativity,storytelling
+1258|art,arts,data,security,war,web
+1259|brain,culture,medicine,morality,science
+1260|cars,design,flight,invention,transportation
+1261|biology,brain,evolution,neurology,science
+1262|entertainment,magic,technology
+1263|TEDx,culture,design,language,law,simplicity
+1264|biology,chemistry,life,science
+1265|TED Fellows,art,creativity,humor,technology
+1266|history,invention,technology
+1267|brain,disease,science,technology
+1268|Internet,TEDx,business,future,investment,technology
+1269|TEDx,comedy,community,culture,entertainment
+1270|design,medical research,science,visualizations
+1271|adventure,design,flight,technology
+1272|TEDx,education,entertainment,technology,youth
+1274|aging,biotech,genetics,medicine,science,technology
+1276|comedy,entertainment,science,time
+1278|TEDx,design,education,gaming,play
+1279|TEDx,activism,children,community,culture,global issues,war,youth
+1280|TEDx,astronomy,science,technology
+1281|creativity,design,engineering,robots,technology
+1282|creativity,design,entertainment,storytelling,technology
+1283|TEDx,biodiversity,biology,compassion,culture,photography
+1284|TEDx,cities,collaboration,design,food,garden
+1285|TEDx,entertainment,happiness,illness,personal growth,prosthetics
+1286|TED Conference,crime,culture,education,global issues,philosophy,prison
+1287|culture,decision-making,failure
+1288|global issues,law,politics,prison,war
+1289|children,education,food,science,writing
+1290|TEDx,biology,dance,entertainment,physics,presentation,science,technology
+1291|beauty,medical research,music,science,technology
+1292|Africa,TEDx,journalism,media,poverty
+1293|TEDx,entertainment,life,poetry,spoken word
+1294|Egypt,TEDx,activism,culture,global issues,politics,protests
+1295|Internet,TEDx,collaboration,computers,language,technology,wikipedia
+1296|MacArthur grant,TED Conference,biomechanics,biomimicry,science,technology
+1297|health care,medical research,medicine,science,technology
+1298|culture,entertainment,jazz,music
+1299|TEDx,design,engineering,industrial design,technology
+1300|TEDx,development,engineering,global issues
+1301|TED Fellows,arts,design,global issues,journalism,photography,storytelling
+1302|cancer,medicine,science,technology
+1303|business,economics,finance,global issues,green
+1304|TED Conference,agriculture,business,creativity,culture,food
+1305|TEDx,aging,culture,education,health care,medicine,self,storytelling
+1306|TEDx,culture,food,garden,global issues,sustainability
+1307|TEDx,economics,global issues,health
+1308|TED Conference,brain,consciousness,neuroscience,science,self
+1309|medical research,medicine,science,sight,technology
+1310|behavioral economics,business,culture,decision-making,economics,finance,self
+1311|TEDx,disability,global issues,poverty,prosthetics,storytelling,war,work
+1312|culture,entertainment,health,humor,self
+1313|TEDx,aging,culture,health
+1314|Europe,Foreign Policy,TEDx,global issues,politics,world cultures
+1315|TEDx,statistics,visualizations
+1316|TEDx,culture,politics
+1317|TEDx,astronomy,collaboration,medicine,science,technology
+1318|TEDx,business,culture,economics,storytelling
+1320|TEDx,cancer,medicine,pollution,science,youth
+1321|TEDx,culture,politics
+1322|TEDx,arts,biology,science,visualizations
+1323|TEDx,activism,arts,music,poetry,women
+1324|TEDx,alternative energy,nuclear energy,technology
+1325|TEDx,disability,entertainment,global issues,live music
+1326|TED Fellows,design,development,technology,water
+1327|atheism,culture,philosophy,religion
+1328|Internet,crime,data,politics,technology
+1329|business,creativity,media,politics,technology
+1330|business,choice,culture,decision-making,marketing
+1331|TEDx,arts,entertainment,live music,math,music,science
+1332|TEDx,science,sustainability,technology
+1334|TEDx,neuroscience,philosophy,self
+1335|business,design,technology
+1336|culture,extreme sports,fear,sports,success
+1337|TEDx,communication,culture,medicine,public health
+1338|TEDx,arts,neuroscience,psychology,science,technology
+1339|TEDx,entrepreneur,global issues,poverty,women,women in business
+1340|TEDx,architecture,cities,design,sustainability
+1341|TEDx,business,consumerism,robots,shopping,technology
+1342|TEDx,global issues,military,peace,war
+1343|cancer,medical research,technology
+1344|TEDx,business,happiness,psychology,science
+1345|Surgery,TEDx,design,global issues,health care,poverty,technology
+1346|TED Conference,future,science,technology
+1347|TEDx,communication,presentation,storytelling
+1348|TEDx,education,global issues,poverty,technology
+1349|brain,cognitive science,exploration,neuroscience,science
+1350|TEDx,corruption,culture,global issues,military,morality,technology,war
+1351|Islam,Middle East,art,arts,cities,culture,film
+1352|TEDx,biology,dinosaurs,paleontology,science
+1353|creativity,culture,photography,technology
+1354|TEDx,disability,global issues,military
+1355|TEDx,community,leadership,life,motivation
+1356|animals,biology,children,film,plastic,science,sex
+1357|TEDx,culture,humor,love,relationships,sex
+1358|TEDx,arts,family,live music,music,singer
+1359|TEDx,health,health care,medicine,public health,technology
+1360|TEDx,biology,environment,oceans,science
+1361|TEDx,disaster relief,global issues,natural disaster,social media,technology
+1362|TEDx,environment,global issues,oil,photography
+1363|TED Fellows,TEDx,environment,global issues,science,space
+1364|culture,global issues,history,world cultures
+1365|TEDx,communication,entertainment,humor,language,literature
+1366|art,creativity
+1367|behavioral economics,economics,money,psychology
+1368|TEDx,family,immigration,storytelling
+1369|TEDx,life,psychology,relationships,science
+1370|Internet,TEDx,computers,hack,security,technology
+1371|entertainment,online video,social media
+1372|biology,collaboration,fish,oceans,photography
+1373|data,oceans,science
+1374|TED Conference,cities,science,sustainability,technology
+1375|TED Conference,cities,invention,sustainability,technology
+1376|AI,TED Conference,drones,robots,technology
+1377|TED Conference,business,culture,psychology
+1378|crime,culture,global issues,inequality,law,race
+1379|TED Conference,arts,entertainment,film,storytelling
+1380|TED Conference,big problems,climate change,environment,global issues,science
+1381|TED Conference,activism,cities,government,technology
+1382|TED Conference,entertainment,performance,performance art
+1383|TEDx,art,design,materials
+1384|TEDx,business,failure,goal-setting,happiness,success
+1385|TED Fellows,TED-Ed,brain,life,neuroscience,science,technology
+1386|TED-Ed,education,mind,science
+1387|TED-Ed,biology,deextinction,exploration,science
+1388|TED-Ed,creativity,education,science,simplicity,technology
+1389|TED Conference,culture,evolution,religion
+1390|TED Conference,business,entertainment,humor,music
+1391|TED Conference,brain,culture,psychology,self
+1392|TEDx,beauty,design,industrial design,prosthetics
+1393|TEDx,architecture,cities,design,social change,sustainability
+1394|TED Conference,alternative energy,culture,economics,energy,technology
+1396|TEDx,health,heart health,medical research,medicine,science,women
+1397|TED Conference,energy,science,technology,youth
+1398|TED Conference,culture,entertainment,humor,poetry
+1399|TEDx,death,global issues,health,health care
+1400|TEDx,data,design,media,news
+1401|TED Conference,alternative energy,energy,invention,technology
+1402|TED Conference,drones,flight,innovation,military,science,technology
+1403|TED Conference,global issues,peace,social change,women
+1404|TED Conference,TED Fellows,creativity,education,technology,toy
+1405|TED Conference,art,design,entertainment,illusion,magic,technology
+1406|TEDx,alternative energy,global issues,green,poverty,technology
+1407|Internet,TEDx,global issues,politics,technology
+1408|TED-Ed,oceans
+1409|AI,TED Conference,communication,community,culture,sociology,technology
+1410|TED Conference,creativity,design,humor,literature
+1411|TED Conference,education,health care,interface design,medical research,technology
+1412|TEDx,agriculture,environment,global issues
+1413|TED Conference,TED Fellows,architecture,design,smell,technology
+1415|TED-Ed,culture,education,entertainment,language,poetry,youth
+1416|TED Conference,arts,creativity,design,memory,storytelling
+1417|TEDx,animals,community,monkeys,morality,science
+1418|TEDx,culture,global issues,health care,population
+1419|TEDx,engineering,health,heart health,innovation,medicine,science,technology
+1420|Asia,TED Conference,TED Fellows,china,culture,entertainment,music,world cultures
+1421|TED Conference,health care,heart health,medicine
+1422|TED Conference,business,entrepreneur,law
+1423|art,culture,global issues,photography
+1424|TEDx,aging,culture,science
+1425|TED Conference,TED Fellows,ancient world,bacteria,evolution,medicine,paleontology,science
+1426|String theory,TED Conference,cosmos,physics,science,time,universe
+1427|TEDx,business,community,consumerism,happiness,money,philanthropy,psychology
+1428|TED-Ed,education,science
+1429|Brazil,Latin America,TED Conference,TED Prize,cities,technology,urban planning
+1430|TED Conference,activism,bullying,culture,global issues,health,youth
+1431|TEDx,entertainment,green,hack,humor,materials,simplicity
+1432|TEDx,gaming,global issues,history,social change
+1433|TED Conference,architecture,cities,creativity
+1434|alternative energy,energy,politics,science,solar energy,technology,wind energy
+1435|TED Conference,art,culture,design,nature
+1436|Internet,TED Conference,business,technology
+1437|TEDx,advertising,culture
+1438|TEDx,entertainment,fashion,feminism,identity,youth
+1439|TEDx,beauty,global issues,photography,race
+1440|TED Conference,culture,entertainment,history,music
+1441|data,philosophy
+1442|TED Conference,animals,film,nature,science
+1443|TED Conference,brain,culture,memory,neuroscience,science
+1444|TED Conference,marketing,technology,web
+1445|TEDx,global issues,health,insects,medicine
+1446|TEDx,business,history,music
+1447|TED Conference,brain,culture,neuroscience,psychology,science
+1448|TED Conference,TED Fellows,history,language,literature,math,science
+1449|TED Conference,arts,creativity,design,fear,technology
+1450|TED Conference,TED Fellows,art,biotech,neuroscience,science,technology
+1451|TED Conference,TED Prize,arts,community,photography
+1452|TEDx,design,disaster relief,global issues,natural disaster
+1453|TEDx,biodiversity,biology,microbiology,oceans,science
+1454|TED Conference,bacteria,biodiversity,exploration,microbiology,science
+1455|TEDx,data,global issues,population,presentation,religion
+1456|TED Conference,arts,entertainment,magic,storytelling
+1457|AIDS,TEDx,global issues,health,law
+1458|TED Conference,arts,entertainment,humor,live music,music,performance,poetry
+1459|AI,TEDx,art,robots,science,social media
+1460|TEDx,alternative energy,climate change,data,global issues,math,solar energy,sustainability,wind energy
+1461|Internet,TEDx,ancient world,art,arts,book,history,library,museums,open-source
+1462|Egypt,TEDx,data,economics,protests,women
+1463|TEDx,communication,culture,design,life,morality,philosophy
+1464|TED Conference,culture,dance,entertainment,technology
+1465|TEDx,astronomy,extraterrestrial life,life,science,technology
+1466|TEDx,security,self,technology
+1467|TEDx,brain,culture,evolution,genetics,science
+1468|biology,science,sex
+1469|TED Conference,culture,history,language,math
+1470|TED Conference,TED Fellows,mining,science,technology,water
+1471|TED Conference,architecture,design,humor
+1472|TEDx,cognitive science,mental health,psychology,science
+1473|TEDx,global issues,journalism,media,women
+1474|TED Conference,design,humor,journalism
+1475|global issues,health,health care,medicine,poverty,public health,social change,society
+1476|art,children,culture,education,film,storytelling,youth
+1477|Egypt,TED Conference,TED Fellows,exploration,history,science,space,technology
+1478|LGBT,TEDx,gender,humor,inequality,love,politics,relationships,sex,social change
+1479|TEDx,collaboration,innovation,open-source,skateboarding
+1480|TEDx,death,global issues,law,politics,prison,storytelling
+1481|cancer,health,health care,medicine,science
+1482|TED Conference,science,storytelling,technology
+1483|TEDx,entertainment,environment,global issues,innovation,invention,science,solar energy,sports,sustainability
+1484|TEDx,art,entertainment,goal-setting,life,social media,storytelling,technology
+1485|TED Prize,education,failure,math,science,storytelling,student,success,youth
+1487|Internet,TED Conference,computers,education,global issues
+1488|Planets,TEDx,demo,exploration,science,software,space,technology
+1489|TEDx,business,global issues,innovation
+1490|Internet,TEDx,entertainment,science,web,wikipedia
+1491|creativity,drones,open-source,robots,technology
+1492|business,future,technology
+1494|brain,health care,mental health
+1495|demo,innovation,magic,physics,science,technology
+1496|Internet,crime,future,global issues,law,open-source,security,technology,terrorism,violence
+1498|TED Fellows,aging,disease,health,medicine,science
+1499|TED Fellows,TEDx,global issues,oceans,open-source
+1500|TED Fellows,entertainment,live music,music
+1501|body language,entertainment,gaming,medicine,science
+1503|biology,health,microbiology,science
+1505|TED Conference,creativity,music,visualizations
+1506|TEDx,cars,future,technology
+1507|TEDx,global issues,hack,security,technology
+1508|TED Conference,TED Fellows,arts,design,history,memory,online video,storytelling
+1509|biology,cancer,health care,science
+1510|development,global issues,goal-setting,health care,poverty
+1512|Senses,art,cyborg,design,entertainment,innovation,music,prosthetics,sound,technology
+1513|collaboration,global issues,open-source,peace,politics,social media,terrorism,violence,war
+1514|TEDx,business,cancer,choice,decision-making
+1515|demo,design,interface design,science,technology
+1516|TEDx,global issues,technology
+1517|TEDx,computers,engineering,history,technology
+1518|Europe,data,technology,telecom
+1519|algorithm,architecture,arts,design,math,software
+1520|innovation,invention,photography,technology
+1521|arts,entertainment,history,storytelling
+1522|TEDx,animals,bees,cities,global issues,insects,science
+1523|Asia,china,global issues,journalism,social media,technology
+1524|arts,creativity,culture,entertainment,film,history
+1526|TEDx,art,composing,music
+1527|art,dance
+1528|TEDx,arts,culture,disability,photography,storytelling,violence,war
+1530|TEDx,business,education,garden,green
+1531|Internet,computers,education,global issues
+1532|Asia,culture,disaster relief,memory,photography,storytelling
+1533|business,leadership,women in business
+1534|TED Fellows,disease,global issues,innovation,math,medicine,science,speech,technology
+1535|art,creativity
+1537|Egypt,Middle East,TED Fellows,arts,protests,world cultures
+1538|agriculture,botany,community,food,garden,green,sustainability
+1541|Slavery,global issues,photography
+1542|TEDx,activism,global issues,peace,terrorism,violence,war
+1543|TEDx,complexity,crime,math,science
+1544|TED Conference,culture,mind,prison,storytelling
+1545|TEDx,cooperation,culture,disaster relief,natural disaster,weather
+1546|Internet,collaboration,future,government,law,open-source,politics,social media,software,technology
+1547|Europe,big problems,culture,democracy,global issues,politics,protests
+1548|TEDx,culture,language,politics
+1549|TEDx,design,health care,product design
+1551|arts
+1552|arts,cooperation,theater
+1553|TED Fellows,arts,cities,community,death
+1554|Asia,china,consumerism,culture,economics,global issues,women
+1555|business,cities,community,economics,global issues,law
+1556|AI,algorithm,computers,data,engineering,intelligence,security,technology
+1557|depression,global issues,health,mental health,public health
+1558|data,democracy,global issues,government,politics
+1559|TEDx,architecture,cities,design,future,technology,urban planning
+1560|TEDx,crime,global issues,government,law,memory,mind,prison,science
+1561|agriculture,alternative energy,business,energy,oceans,science,technology
+1562|health care,medical research,science,technology
+1563|brain,cognitive science,neuroscience,science,youth
+1564|Senses,architecture,design,sound
+1565|environment,food
+1566|New York,crime,medicine,storytelling,violence
+1567|Africa,TEDx,technology,war
+1568|biology,biotech,community,science,technology
+1569|body language,brain,business,psychology,self,success
+1570|computers,education,open-source,technology
+1571|Internet,art,arts,computers,creativity,design,humor,leadership,technology
+1572|business,collaboration,community,web
+1573|brain,neuroscience,science
+1574|TEDx,business,technology
+1575|cancer,medicine,science
+1576|Internet,business,exploration,technology
+1577|TED Fellows,activism,live music,medicine,music,performance,violin
+1578|TED-Ed,comedy,philosophy,science
+1579|TED Conference,art,museums
+1580|business,creativity,education,failure,productivity,success,technology
+1581|Internet,computers,interface design,online video,software,technology,web
+1582|TEDx,design,interface design,map
+1583|cities,climate change,global issues,weather
+1584|activism,brain,comedy,culture,entertainment,evolution,humor,mental health,society
+1585|health,health care,medical research,open-source
+1586|crime,global issues,law,marketing,terrorism,violence,war
+1587|bees,biology,children,collaboration,insects,science,youth
+1588|art,arts,science,technology
+1591|business,design,social media
+1592|communication,engineering,science
+1593|business,economics,global issues,social change,social media
+1594|corruption,culture,democracy,journalism,news,politics
+1595|TEDx,corruption,democracy,global issues,government,politics,society,state-building
+1596|TEDx,children,culture,spoken word
+1597|TEDx,brain,choice,cognitive science,morality,politics,psychology,science,smell
+1598|TEDx,architecture,art,climate change,design,invention,materials,sustainability,technology
+1599|development,global issues
+1600|brain,culture,mental health
+1601|activism,children,culture,family,parenting,psychology,social change,sociology,youth
+1602|illusion,magic,technology
+1603|communication,culture
+1604|TEDx,bees,nature,photography
+1605|TEDx,advertising,animals,biology,evolution,genetics,science
+1606|TEDx,culture,men,philanthropy
+1607|TEDx,brain,happiness,psychology,software
+1608|TEDx,disaster relief,global issues,military,natural disaster,suicide
+1609|art,design,engineering,innovation,invention,play,toy,youth
+1610|adventure,animals,biology,birds,nature,science
+1611|Africa,business,development,entrepreneur,innovation,invention,water
+1612|TEDx,communication,technology
+1613|TED Conference,art,arts,creativity,entertainment,photography
+1614|global issues,innovation,invention,public health,women
+1616|TEDx,culture,design,development,disability,engineering,innovation,invention,physics,poverty
+1617|TEDx,business,development,global issues
+1618|TEDx,brain,education,gaming
+1619|children,entertainment,live music,performance,wunderkind,youth
+1620|cars,transportation
+1621|TEDx,body language,health,health care,identity,storytelling
+1622|culture,design,humor,product design,technology
+1623|Egypt,TEDx,culture,faith,global issues,politics,religion,terrorism,war
+1624|business,prison
+1625|arts,poetry,spoken word
+1626|TED Fellows,biology,engineering,health care,medical research,medicine,science,technology
+1627|TEDx,collaboration,health,health care,history,invention,medicine,science
+1628|TEDx,animals,insects,science
+1629|Middle East,TEDx,comedy,culture,entertainment,humor,performance
+1630|Internet,culture,journalism,online video
+1631|culture,extreme sports,personal growth,potential,sports
+1632|business,collaboration,consumerism,transportation,women in business
+1633|advertising,brain,marketing,media,neuroscience,science
+1634|TED Conference,children,parenting,photography
+1636|Iran,Middle East,TEDx,design,global issues,peace
+1637|creativity,death,entertainment,fear,storytelling
+1638|economics,global issues,politics
+1639|TED Conference,arts,film
+1640|Buddhism,body language,culture,happiness,health,meditation,mindfulness,productivity,success,work
+1641|animals,biotech,disease,global issues,insects,pandemic,science,technology
+1642|global issues,politics,society
+1643|TEDx,arts,disability,performance art
+1644|TEDx,art,arts,book,children,design,storytelling,writing
+1645|AIDS,TEDx,global issues,health care,medicine
+1646|TEDx,activism,children,dance,parenting,social change,women,youth
+1647|TEDx,beauty,culture,fashion,photography
+1648|TEDx,biology,chemistry,disease,health,heart health,medicine,science
+1649|TEDx,children,culture,education,parenting,student,youth
+1650|TEDx,culture,film,identity,men,parenting
+1651|TEDx,global issues,journalism,war
+1652|Surgery,TEDx,health care,medicine,technology
+1653|TEDx,arts,creativity,writing
+1654|culture,global issues,love,relationships,violence,women,yesallwomen
+1655|TEDx,biology,children,education,science
+1656|business,global issues,technology,work
+1657|Internet,TEDx,children,computers,education,parenting,technology,youth
+1658|LGBT,TEDx,United States,gender,identity,inequality,photography,relationships
+1659|compassion,democracy,global issues,politics,women
+1660|Middle East,TEDx,agriculture,cities,food,technology,water
+1661|chemistry,health care,medical research,medicine,science
+1662|children,humor
+1663|TED Conference,art,film,life,memory,online video
+1664|Europe,TEDx,art,cities,community,global issues,government,politics,urban planning
+1665|TEDx,demo,engineering,invention,science,technology,urban planning
+1666|TEDx,education,feminism,global issues,women,yesallwomen
+1667|data,education,global issues,inequality
+1668|TEDx,business,complexity,data,economics,global issues,inequality
+1669|culture,love,relationships,sex
+1670|behavioral economics,business,data,economics,language
+1671|brain,exoskeleton,monkeys,neuroscience,science,technology
+1672|Africa,TEDx,activism,development,education,feminism,women,yesallwomen
+1673|TEDx,corruption,crime,economics,government,protests
+1674|TEDx,biology,insects,science
+1675|children,culture,engineering,family,parenting,software,youth
+1676|TED Conference,environment
+1677|TEDx,robots
+1678|TED Conference,TED Prize,education,technology
+1679|TED Conference,energy,global issues,work
+1682|TED Conference,business,entertainment,music,performance art
+1683|TED Conference,agriculture,climate change,green
+1684|TED Conference,oceans,submarine,technology
+1685|TED Conference,agriculture,culture,food,garden,health,social change
+1687|TED Conference,bullying,children,compassion,poetry,spoken word
+1688|TED Conference,business,culture,global issues,philanthropy
+1689|TEDx,brain,insects,neuroscience
+1690|TED Conference,biology,deextinction,philosophy,technology
+1691|TED Conference,activism,global issues,inequality,poverty
+1692|TED Fellows,creativity,design,technology
+1693|Internet,TED Conference,computers,technology
+1694|Asia,culture,family,global issues,politics
+1695|TED Conference,energy,entrepreneur,exploration,innovation,solar energy,space,technology,transportation
+1696|disease,genetics,medical research,medicine,public health,science
+1697|TED Conference,collaboration,community,conducting,entertainment,live music,technology
+1698|TED Conference,TED Fellows,architecture,biodiversity,biology,collaboration,design,science
+1699|TED Conference,agriculture,biodiversity,technology
+1700|TED Conference,demo,invention,nanoscale,technology,water
+1701|TEDx,behavioral economics,choice,economics,monkeys,neuroscience
+1702|TED Conference,corruption,democracy,global issues,government,law,politics
+1703|TED Conference,biology,birds,humor,science,sex
+1704|TED Conference,technology,transportation
+1705|engineering,technology
+1706|TEDx,behavioral economics,business,leadership,motivation,productivity,work
+1707|TED Conference,TED Fellows,design,industrial design,technology
+1708|TEDx,computers,entertainment,robots,technology
+1709|TED Conference,robots,technology
+1710|TED Conference,education,inequality,math,science,technology
+1711|health care,heart health,technology
+1712|history,science,storytelling,technology
+1713|big problems,global issues,health,sanitation,smell,water
+1714|TEDx,brain,depression,health,mental health,neuroscience
+1715|TED Conference,anthropology,disability,storytelling,writing
+1716|TED Conference,dance,entertainment,performance,toy
+1717|TEDx,brain,depression,health care,neuroscience
+1718|TED Conference,culture,language,sociology,technology
+1719|TED Conference,economics,global issues,innovation,technology
+1720|TED Conference,business,economics,technology,work
+1721|TED Conference,arts,china,global issues,identity,photography,politics
+1722|TED Conference,bacteria,biology,plastic,pollution,science,youth
+1723|Internet,education,humor,science,technology
+1724|cars,technology
+1725|TED Conference,culture,technology
+1726|TED Conference,business,communication,health
+1727|TED Conference,innovation,nuclear energy,physics,science,technology,youth
+1728|children,education,motivation
+1729|Brazil,TED Conference,activism,arts,environment,global issues,photography
+1730|TED Conference,culture,security,social media,technology
+1731|chemistry,education,science,student,technology
+1732|business,children,education
+1733|business,education,psychology,success
+1734|children,education
+1735|TEDx,business,culture,economics,education
+1736|TED Conference,china,education,language
+1737|education,poetry
+1738|culture,education,student
+1739|culture,education,global issues
+1740|education,live music,piano
+1741|TED Conference,aging,culture,goal-setting,youth
+1742|culture,data,sociology,technology
+1743|creativity,invention,technology,toy
+1744|TED Conference,aging,culture,death,humanity,life
+1745|TED Conference,culture,design,interface design,technology
+1746|TED Conference,global issues,philanthropy,philosophy,social change
+1747|TED Conference,arts,disability
+1749|TED Conference,architecture,design,open-source
+1750|TED Conference,creativity,entertainment,live music,music,performance
+1751|TEDx,animals,anthropology,deextinction,evolution
+1752|art,design,gaming,museums
+1753|TEDx,feminism,men,violence,women,yesallwomen
+1754|TED Conference,behavioral economics,energy,psychology
+1755|TED Conference,creativity,culture,entertainment,library,literature
+1756|children,culture,disability,family,love,mental health
+1757|Africa,TED Conference,corruption,crime,global issues,journalism
+1758|TED Conference,animals,biology,communication,language,oceans,science
+1759|TED Conference,economics,robots,work
+1760|TED Conference,creativity,entertainment,film
+1761|TED Conference,culture,food,sex
+1762|TED Conference,robots,work
+1763|TED Conference,TED Fellows,arts,entertainment,nature,photography
+1764|drones,robots,technology
+1765|Europe,democracy,economics,global issues,politics
+1766|drones,entertainment,robots,technology,war,writing
+1767|Islam,Middle East,cars,culture,feminism,global issues,women
+1768|business,economics,global issues,prediction
+1769|TEDx,architecture,design,global issues,health,public health,sanitation
+1770|Africa,TED Fellows,business,technology
+1771|family,global issues,politics
+1772|Islam,culture,faith,global issues,peace,religion
+1773|TEDx,culture,global issues,women in business
+1774|health,health care,medical research,medicine,obesity,public health
+1776|arts,design,humor
+1777|TEDx,animals,deextinction,science
+1778|Asia,business,china,democracy,global issues,politics
+1779|TEDx,data,global issues,health,technology
+1780|arts,beauty,nature,weather
+1781|TED Conference,TED Fellows,computers,design,interface design,technology
+1782|TED Conference,children,entertainment,live music,music,performance,wunderkind
+1783|TEDx,agriculture,biology,food
+1784|business,corruption,energy,global issues
+1785|TED Conference,architecture,design,materials
+1786|Internet,TED Conference,animals,technology
+1787|TED Conference,cancer,disease,science
+1788|animals,nature,sound
+1789|culture,happiness,world cultures,writing
+1790|Asia,TED Conference,culture,demo,invention
+1791|business,economics,global issues,inequality,money
+1792|TEDx,creativity,live music,music
+1793|TED Conference,design,entertainment,materials,technology
+1794|TEDx,brain,consciousness,philosophy,science
+1795|advertising,business,marketing,money
+1796|children,health care,parenting
+1797|culture,money
+1798|design,flight,industrial design,transportation
+1799|health,health care,medicine,peace
+1800|TED Conference,health,health care,mental health
+1801|TED Conference,creativity,entertainment,fear,film,theater
+1802|TEDx,cars,children,data,health,medicine,sports,technology
+1803|TEDx,culture,education,language,poetry,politics
+1804|TED Conference,creativity,entertainment,music,technology
+1805|TEDx,culture,language,philosophy
+1806|Senses,TED Conference,creativity,design,sight,smell
+1807|Africa,TED Conference,culture,design,language,writing
+1808|TEDx,disability,live music,music
+1809|TEDx,architecture,disaster relief,materials,natural disaster
+1810|health,mental health,neuroscience,science
+1811|TED Conference,humor,math
+1812|culture,global issues,sports,violence,war
+1813|TEDx,animals,memory,neuroscience
+1814|arts,creativity,design
+1815|body language,health,psychology
+1816|animals,biodiversity,deextinction,science
+1817|collaboration,design,museums
+1818|TEDx,book,choice,design,disability,sight,technology
+1819|big problems,disease,global issues,history,insects
+1820|TED Conference,crime,finance,technology
+1821|crime,entertainment
+1822|bees,biodiversity,food,garden,insects,science
+1823|TED Conference,TED Fellows,algorithm,complexity,data,technology
+1824|food,global issues,science,sustainability
+1825|cities,global issues,politics
+1826|memory,psychology,science
+1827|TED Conference,education,humor,neuroscience,science
+1828|TED Conference,culture,education
+1829|TEDx,global issues,government,philosophy,politics
+1830|TEDx,depression,mental health,suicide,youth
+1831|ancient world,entertainment,history,storytelling,war
+1832|death,world cultures
+1833|algorithm,culture,data,love,technology
+1834|arts,photography,science
+1835|NASA,TED Conference,astronomy,space,technology
+1836|Debate,business,politics,social change
+1837|big problems,business,social change
+1838|architecture,cities,design,transportation
+1839|Foreign Policy,Iran,Middle East,global issues,government,peace,politics
+1840|disease,health,medicine,violence
+1841|culture,literature,social media,storytelling,technology,writing
+1842|Africa,Asia,china,democracy,economics,global issues,politics
+1843|cities,culture,design,transportation
+1845|biotech,medicine,science,technology
+1846|cities,creativity,culture,design,photography
+1847|culture,death,health care,life
+1848|business,policy,privacy,social media,technology
+1849|art,culture,dance,identity,performance art
+1850|business,culture,design,global issues,sustainability
+1851|Africa,business,economics,global issues
+1852|book,culture,literature,love,relationships,sex,writing
+1853|String theory,TEDx,physics,science,universe
+1854|Africa,TED Fellows,architecture,design
+1855|business,economics,finance,government,innovation,investment,technology,women in business
+1856|communication,culture,entertainment,storytelling,technology
+1857|adventure,disaster relief,nuclear energy
+1858|anthropology,business,culture,sanitation
+1859|business,global issues,innovation,terrorism
+1860|biotech,health care,neuroscience,science,technology
+1861|Internet,computers,global issues,security,technology,terrorism
+1862|entertainment,magic,math
+1863|Senses,agriculture,design,sight,urban planning
+1864|Africa,entrepreneur,global issues,innovation,peace,violence
+1865|cities,health,obesity
+1866|entertainment,gaming,performance
+1872|animals,drones,global issues,sustainability
+1873|health,health care,medical research,public health
+1874|biodiversity,drones,nature,science,technology,trees
+1875|TEDx,culture,disability,technology
+1876|drones,technology,transportation
+1877|TED Conference,aging,culture,social change
+1878|brain,education,memory,science
+1879|Brazil,brain,evolution,neuroscience
+1880|culture,faith,happiness
+1881|business,economics,social change
+1882|TEDx,biology,illness,medical research
+1883|entertainment,journalism,media,news,politics
+1885|TED Conference,TED Fellows,adventure,exploration,oceans,open-source,robots,technology
+1886|Latin America,cities,design,sustainability
+1887|consumerism,culture,transportation
+1888|Africa,architecture,sustainability
+1889|exploration
+1890|Africa,culture,nature
+1891|TEDx,culture,death,history,humanity,philosophy
+1892|business,cities,culture
+1893|economics,technology
+1894|TEDx,culture,depression,medicine,mental health,suicide
+1895|design,innovation
+1896|aging,culture,extreme sports,goal-setting
+1897|TEDx,behavioral economics,psychology
+1898|comedy,entertainment,women
+1900|health,neuroscience,obesity
+1901|business,cancer,finance,medical research,medicine
+1902|TEDx,book,computers,history,library,map,technology
+1903|TED Fellows,entertainment,music,technology
+1904|business,sustainability
+1905|Vaccines,biology,health,medicine,science,technology
+1906|feminism,leadership,women,women in business,work
+1907|TEDx,art,arts,design,history,museums
+1908|AI,TEDx,entertainment,jazz,music,robots,technology
+1909|Egypt,Middle East,TED Fellows,culture,relationships,sex
+1910|depression,health,heart health,women
+1911|business,leadership,productivity,work
+1912|communication,entertainment,fear
